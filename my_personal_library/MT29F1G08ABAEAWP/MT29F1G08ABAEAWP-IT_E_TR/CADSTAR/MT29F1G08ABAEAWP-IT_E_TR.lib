@@ -1,0 +1,19 @@
+.MT29F1G08ABAEAWP-IT_E_TR :1 ;IC FLASH 1GBIT 20NS 48TSOP
+SOP50P2000X120-48N
+*STM IC
+*NGS
+*PLB 1="NC_1" 2="NC_2" 3="NC_3" 4="NC_4" 5="NC_5" 6="NC_6" 7="R/B#" 8="RE#" 9="CE#" 10="NC_7" 11="NC_8" 12="VCC_1" 13="VSS_1" 14="NC_9" 15="NC_10" 16="CLE" 17="ALE" 18="WE#" 19="WP#" 20="NC_11" 21="NC_12" 22="NC_13" 23="NC_14" 24="NC_15" 25="VSS_2" 26="NC_16" 27="NC_17" 28="NC_18" 29="I/O0" 30="I/O1" 31="I/O2" 32="I/O3" 33="NC_19" 34="VCC_2" 35="NC_20" 36="VSS_3" 37="VCC_3" 38="DNU_1" 39="VCC_4" 40="NC_21" 41="I/O4" 42="I/O5" 43="I/O6" 44="I/O7" 45="NC_22" &
+46="NC_23" 47="DNU_2" 48="VSS_4"
+*MXP 48
+*DFN MT29F1G08ABAEAWP-IT_E_TR
+~!Manufacturer_Name (Micron)
+~!Manufacturer_Part_Number (MT29F1G08ABAEAWP-IT:E TR)
+~!Mouser Part Number (340-186309-REEL)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Micron/MT29F1G08ABAEAWP-ITE-TR?qs=taEdVNyAfdEKzDS6fUq3Ig%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://e2e.ti.com/cfs-file/__key/communityserver-discussions-components-files/639/3005.MT29F1G08ABBEAH4E.pdf)
+~!Height (1.2mm)
+~!3D_Model (MT29F1G08ABAEAWP-IT_E_TR)
+MT29F1G08ABAEAWP-IT_E_TR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 48.1!U 47.1!U 46.1!U 45.1!U 44.1!U 43.1!U 42.1!U 41.1!U 40.1!U 39.1!U 38.1!U 37.1!U 36.1!U 35.1!U 34.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MT29F1G08ABAEAWP_IT_E_TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Micron", "MT29F1G08ABAEAWP-IT:E TR" (!) = "", "SOP50P2000X120-48N", "Small Outline Packages", "340-186309-REEL", "https://www.mouser.co.uk/ProductDetail/Micron/MT29F1G08ABAEAWP-ITE-TR?qs=taEdVNyAfdEKzDS6fUq3Ig%3D%3D", "", "", "IC FLASH 1GBIT 20NS 48TSOP", "http://e2e.ti.com/cfs-file/__key/communityserver-discussions-components-files/639/3005.MT29F1G08ABBEAH4E.pdf", "1.2 mm"
+END_PART
+
+END.

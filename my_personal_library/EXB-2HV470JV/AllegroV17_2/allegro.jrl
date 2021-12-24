@@ -1,0 +1,59 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Dec 11 18:52:52 2021
+\t (00:00:00)         Host=HAMIT-PC User=Hamit Pid=17936 CPUs=8
+\t (00:00:00) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Starting new design...
+\i (00:00:00) trapsize 669
+\i (00:00:01) trapsize 684
+\i (00:00:01) trapsize 1126
+\i (00:00:01) trapsize 1163
+\i (00:00:01) replay builder.scr.txt 
+\i (00:00:01) skill 'load "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/EXB-2HV470JV/AllegroV17_2/builder.ile" ' 
+   (00:00:01) t
+\i (00:00:01) skill 'changeWorkingDir "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/EXB-2HV470JV/AllegroV17_2" ' 
+   (00:00:01) t
+\i (00:00:01) skill 'LB_createFootprint "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/EXB-2HV470JV/AllegroV17_2/RES_EXB2HV.xml" ' 
+\t (00:00:01) Reading Footprint XML
+\t (00:00:01) Creating padstacks
+\t (00:00:01) Starting new design...
+\i (00:00:01) trapsize 727
+\i (00:00:01) trapsize 745
+\i (00:00:01) trapsize 1163
+\i (00:00:01) trapsize 1163
+\i (00:00:01) trapsize 116279
+\t (00:00:01) Performing DRC...
+\t (00:00:01) Multithreaded DRC update (8 threads).
+\t (00:00:01) No DRC errors detected.
+\t (00:00:01) Starting new design...
+\i (00:00:01) trapsize 72664
+\i (00:00:02) trapsize 74468
+\i (00:00:02) trapsize 116279
+\i (00:00:02) trapsize 116279
+\t (00:00:02) Opening Design "RES_EXB2HV.dra"
+\t (00:00:02) Starting new design...
+\i (00:00:02) trapsize 72664
+\i (00:00:02) trapsize 74468
+\i (00:00:02) trapsize 116279
+\i (00:00:02) trapsize 116279
+\i (00:00:02) trapsize 29200
+\t (00:00:02) Creating TextBlocks
+\t (00:00:02) Creating Shapes on Package layers
+\t (00:00:02) Creating Pins
+\t (00:00:02) Creating Vias
+\t (00:00:02) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/EXB-2HV470JV/AllegroV17_2/res_exb2hv.psm'.
+\t (00:00:02) Starting Create symbol...
+\t (00:00:03) Symbol Created
+\i (00:00:03) trapsize 1659
+   (00:00:03) Loading cmds.cxt 
+   (00:00:03) Loading skillExt.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) trapsize 1619
+\i (00:00:04) trapsize 1659
+\i (00:00:04) trapsize 1659
+\d (00:00:04) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/EXB-2HV470JV/AllegroV17_2/RES_EXB2HV.dra
+\t (00:00:04) Symbol Saved
+   (00:00:04) t
+\i (00:00:04) exit 
+\t (00:00:04)     Journal end - Sat Dec 11 18:52:55 2021

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XC9103D093MR_G'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Torex", "XC9103D093MR-G" (!) = "", "SOT95P280X130-5N", "SOT23 (5-Pin)", "N/A", "https://www.mouser.co.uk/ProductDetail/Torex-Semiconductor/XC9103D093MR-G?qs=AsjdqWjXhJ9f0lD7ubDLsA%3D%3D", "", "", "Ceramic Capacitor Compatible, Step-up DC/DC Controller", "https://www.torex.com.cn/file/xc9105/XC9103-XC9104-XC9105.pdf", "1.3 mm"
+END_PART
+
+END.

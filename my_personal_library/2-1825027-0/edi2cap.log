@@ -1,0 +1,41 @@
+
+Copyright (c) 2006-2012, Elgris Technologies, Inc.
+Copyright (c) 1998-2005, Electronic Tools Company
+
+EDIF 2 0 0 to OrCAD Capture Schematic Conversion Program SPB 16.60_1.090 built Aug 29 2012
+
+Started on Fri Mar 29 13:14:12 2019
+
+Reading config file C:\Cadence\SPB_16.6\tools\capture\CAP2EDI.CFG
+
+Processing EDIF 2 0 0  file C:\Cadence\SPB_16.6\tools\capture\library\my_personal_library\2-1825027-0\2-1825027-0.edf
+
+This EDIF file has unrecognized origin.
+
+EDIF 200 parsing finished
+
+
+Design has no schematics => OrCAD Schematic will not be created
+Library C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\MY_PERSONAL_LIBRARY\2-1825027-0\2-1825027-0.OLB is created
+              Design Unit is equal to 0.00001000 inches
+              Calculated pinSpacing is equal to : 0.10000001 inches
+              Calculated grid resolution is equal to: 10000 Design Units
+Design file has no schematics
+Converting Unreferenced Symbols from Design libraries
+Writing C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\MY_PERSONAL_LIBRARY\2-1825027-0\2-1825027-0.INI file
+Library C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\MY_PERSONAL_LIBRARY\2-1825027-0\2-1825027-0.OLB is being saved
+   ADVICE: If you DON'T LIKE the result:
+    Do another orcadwrite run using one of the following sets of OrCAD writer options:
+        'Min pin to pin spacing'=0.05000 inch(s), 'Grid'=5000 design unit(s), 
+             results in 0 hotspots out of grid
+        'Min pin to pin spacing'=0.02500 inch(s), 'Grid'=2500 design unit(s), 
+             results in 0 hotspots out of grid
+        'Min pin to pin spacing'=0.02000 inch(s), 'Grid'=2000 design unit(s), 
+             results in 0 hotspots out of grid
+        'Min pin to pin spacing'=0.01250 inch(s), 'Grid'=1250 design unit(s), 
+             results in 0 hotspots out of grid
+
+Finished on Fri Mar 29 13:14:12 2019
+
+
+0 errors detected, 0 warnings detected

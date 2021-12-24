@@ -1,0 +1,444 @@
+
+(EDIF
+  (rename EASV3015RGBA0 "EASV3015RGBA0")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2019 12 23 10 09 01)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename EASV3015RGBA0 "EASV3015RGBA0")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename EASV3015RGBA0 "EASV3015RGBA0")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "D")
+          (property (rename VALUE "Value") (string "EASV3015RGBA0"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &3 "3")
+            (designator "3")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 2)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &4 "4")
+            (designator "4")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 3)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -30000 -36000) (pt 20000 46401)))
+            (portImplementation
+              (name &2)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 20000 30000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 20000 30000)
+                    (pt 0 30000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &1)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -30000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -30000 0)
+                    (pt -20000 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &3)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 20000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 20000 0)
+                    (pt 0 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &4)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 20000 -30000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 20000 -30000)
+                    (pt 0 -30000)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 36000) (pt -10000 30000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 30000) (pt -10000 24000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 24000) (pt 0 30000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 30000) (pt -10000 36000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 36000) (pt 0 24000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 30000) (pt -20000 30000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 4000 46000) (pt -3000 38000)))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -12200 47700))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -14000 -43000))
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2700 42200) (pt 500 44098)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 500 44098) (pt 4000 46000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 4000 46000) (pt 2700 42200)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2700 42200) (pt 2799 45098)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2799 45098) (pt 2299 45098)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 1200 43799) (pt 2098 44401)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -901 46401) (pt -7901 38401)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -2200 42598) (pt -4401 44500)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -4401 44500) (pt -901 46401)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -901 46401) (pt -2200 42598)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -2200 42598) (pt -2098 45500)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -2098 45500) (pt -2598 45500)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -3700 44200) (pt -2799 44799)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 6000) (pt -10000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 0) (pt -10000 -6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 -6000) (pt 0 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 0) (pt -10000 6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 6000) (pt 0 -6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 0) (pt -20000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 4000 16000) (pt -3000 8000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2700 12200) (pt 500 14098)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 500 14098) (pt 4000 16000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 4000 16000) (pt 2700 12200)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2700 12200) (pt 2799 15098)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2799 15098) (pt 2299 15098)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 1200 13799) (pt 2098 14401)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -901 16401) (pt -7901 8401)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -2200 12598) (pt -4401 14500)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -4401 14500) (pt -901 16401)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -901 16401) (pt -2200 12598)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -2200 12598) (pt -2098 15499)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -2098 15499) (pt -2598 15499)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -3700 14200) (pt -2799 14799)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 -24000) (pt -10000 -30000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 -30000) (pt -10000 -36000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 -36000) (pt 0 -30000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -30000) (pt -10000 -24000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -24000) (pt 0 -36000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 -30000) (pt -20000 -30000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 4000 -14000) (pt -3000 -22000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2700 -17799) (pt 500 -15901)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 500 -15901) (pt 4000 -14000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 4000 -14000) (pt 2700 -17799)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2700 -17799) (pt 2799 -14901)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2799 -14901) (pt 2299 -14901)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 1200 -16200) (pt 2098 -15598)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -901 -13598) (pt -7901 -21598)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -2200 -17401) (pt -4401 -15499)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -4401 -15499) (pt -901 -13598)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -901 -13598) (pt -2200 -17401)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -2200 -17401) (pt -2098 -14500)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -2098 -14500) (pt -2598 -14500)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -3700 -15799) (pt -2799 -15200)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 30000) (pt -20000 -30000)))
+            )
+            (figure PARTBODY
+              (circle (pt -20500 0) (pt -19500 0))
+            )
+            (annotate
+              (stringDisplay "R"
+                (display PARTBODY
+                  (justify LOWERLEFT)
+                  (orientation R0)
+                  (origin (pt 5000 -30000))
+                )
+              )
+            )
+            (annotate
+              (stringDisplay "G"
+                (display PARTBODY
+                  (justify LOWERLEFT)
+                  (orientation R0)
+                  (origin (pt 5000 0))
+                )
+              )
+            )
+            (annotate
+              (stringDisplay "B"
+                (display PARTBODY
+                  (justify LOWERLEFT)
+                  (orientation R0)
+                  (origin (pt 5000 30000))
+                )
+              )
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "LED_EASV3015RGBA0"))
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "EASV3015RGBA0"))
+            )
+            (property
+              (rename Availability "Availability")
+              (string
+              (stringDisplay "Unavailable"))
+            )
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "
+Red, Green, Blue _RGB_ 624nm Red, 525nm Green, 470nm Blue LED Indication - Discrete 2V Red, 3.3V Green, 3.3V Blue 4-SMD, No Lead
+"))
+            )
+            (property
+              (rename Price "Price")
+              (string
+              (stringDisplay "None"))
+            )
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay "SMD-4 Everlight Electronics"))
+            )
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "Everlight Electronics"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

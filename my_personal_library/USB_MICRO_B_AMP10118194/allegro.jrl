@@ -1,0 +1,17 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu Mar 04 14:48:23 2021
+\t (00:00:00)         Host=HAMIT-PC User=Hamit Pid=15136 CPUs=8
+\t (00:00:00) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\USB_MICRO_B_AMP10118194\AMPHENOL_10118194-0001LF.dra
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\i (00:00:01) fillin yes 
+\d (00:00:01) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/USB_MICRO_B_AMP10118194/AMPHENOL_10118194-0001LF.dra
+\i (00:00:02) trapsize 2962
+\i (00:00:02) trapsize 3030
+\i (00:00:02) trapsize 4440
+\i (00:00:02) trapsize 4511
+\i (00:00:02) trapsize 10594
+\i (00:00:02) generaledit 
+\i (00:00:05) exit 
+\t (00:00:06)     Journal end - Thu Mar 04 14:48:29 2021

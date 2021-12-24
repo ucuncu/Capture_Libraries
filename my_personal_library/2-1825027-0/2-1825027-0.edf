@@ -1,0 +1,282 @@
+
+(EDIF
+  (rename &2_45_1825027_45_0 "2-1825027-0")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2018 03 08 12 57 51)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename &2_45_1825027_45_0 "2-1825027-0")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename &2_45_1825027_45_0 "2-1825027-0")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "SW")
+          (property (rename VALUE "Value") (string "2-1825027-0"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename SHIELD "SHIELD")
+            (designator "S1")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 2)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename SHIELD__1 "SHIELD__1")
+            (designator "S2")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 3)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -40000 -20000) (pt 40000 20000)))
+            (portImplementation
+              (name &1)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt -36062 10000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -40000 10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -40000 10000)
+                    (pt -20000 10000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &2)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt 36062 10000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 40000 10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 40000 10000)
+                    (pt 20000 10000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name SHIELD
+                (display PINNAME
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt 20000 -10000))
+                )
+              )
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt 36062 -10000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 40000 -10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 40000 -10000)
+                    (pt 20000 -9999)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name SHIELD__1
+                (display PINNAME
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt 20000 -20000))
+                )
+              )
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt 36062 -20000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 40000 -20000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 40000 -20000)
+                    (pt 20000 -19999)
+                  )
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -20046 23053))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -20025 -40038))
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 20000) (pt 20000 20000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 20000) (pt 20000 10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 10000) (pt 20000 -30000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 -30000) (pt -20000 -30000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 -30000) (pt -20000 10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 10000) (pt -20000 20000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 10000) (pt -5000 10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -5000 10000) (pt 5000 15000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 5000 10000) (pt 20000 10000)))
+            )
+            (figure PARTBODY
+              (circle (pt -6000 10000) (pt -4000 10000))
+            )
+            (figure PARTBODY
+              (circle (pt 4000 10000) (pt 6000 10000))
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "TE_2-1825027-0"))
+            (property
+              (rename Link "Link")
+              (string
+              (stringDisplay "http://www.te.com/usa-en/product-2-1825027-0.html"))
+            )
+            (property
+              (rename EU_RoHS_Compliance "EU_RoHS_Compliance")
+              (string
+              (stringDisplay "Compliant"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

@@ -1,0 +1,84 @@
+\t (00:00:09) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:09)     Journal start - Tue Apr 02 01:49:02 2019
+\t (00:00:09)         Host=HAMIT-PC User=Hamit Pid=9484 CPUs=8
+\t (00:00:09) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\CAM-M8Q\CAM-M8Q.dra
+\t (00:00:09) 
+   (00:00:09) Loading axlcore.cxt 
+\t (00:00:11) Opening existing design...
+\i (00:00:13) fillin yes 
+\d (00:00:13) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/CAM-M8Q/CAM-M8Q.dra
+\i (00:00:13) trapsize 621
+\i (00:00:13) trapsize 635
+\i (00:00:13) trapsize 718
+\i (00:00:14) generaledit 
+\i (00:00:16) roam y -96 
+\i (00:00:16) roam y -96
+\i (00:00:16) roam y -96 
+\i (00:00:16) roam y -96
+\i (00:00:16) roam y -96 
+\i (00:00:16) roam y -96
+\i (00:00:16) roam y 96 
+\i (00:00:16) roam y 96
+\i (00:00:17) roam y 96 
+\i (00:00:17) roam y 96
+\i (00:00:17) roam y 96 
+\i (00:00:17) roam y 96
+\i (00:00:25) 3d_viewer 
+\i (00:00:25) setwindow pcb3D
+\i (00:00:25) trapsize 718
+\i (00:00:25) setwindow pcb
+\i (00:00:25) generaledit 
+\i (00:00:34) roam y -96 
+\i (00:00:34) roam y -96
+\i (00:00:34) roam y 96 
+\i (00:00:34) roam y 96
+\i (00:00:34) roam y 96 
+\i (00:00:34) roam y 96
+\i (00:00:34) roam y 96 
+\i (00:00:34) roam y 96
+\i (00:00:34) roam y 96 
+\i (00:00:34) roam y 96
+\i (00:00:34) roam y 96 
+\i (00:00:34) roam y 96
+\i (00:00:34) roam y 96 
+\i (00:00:34) roam y 96
+\i (00:00:35) roam y 96 
+\i (00:00:35) roam y 96
+\i (00:00:35) roam y 96 
+\i (00:00:35) roam y 96
+\i (00:00:35) roam y 96 
+\i (00:00:35) roam y 96
+\i (00:00:35) roam y 96 
+\i (00:00:35) roam y 96
+\i (00:00:35) roam y -96 
+\i (00:00:35) roam y -96
+\i (00:00:35) roam y -96 
+\i (00:00:35) roam y -96
+\i (00:00:35) roam y -96 
+\i (00:00:35) roam y -96
+\i (00:00:35) roam y -96 
+\i (00:00:35) roam y -96
+\i (00:00:35) roam y -96 
+\i (00:00:35) roam y -96
+\i (00:00:35) roam y -96 
+\i (00:00:35) roam y -96
+\i (00:00:35) roam y -96 
+\i (00:00:35) roam y -96
+\i (00:00:35) roam y -96 
+\i (00:00:35) roam y -96
+\i (00:00:36) roam y -96 
+\i (00:00:36) roam y -96
+\i (00:00:36) roam y -96 
+\i (00:00:36) roam y -96
+\i (00:00:36) roam y 96 
+\i (00:00:36) roam y 96
+\i (00:00:36) roam y 96 
+\i (00:00:36) roam y 96
+\i (00:00:36) roam y 96 
+\i (00:00:36) roam y 96
+\i (00:00:36) roam y -96 
+\i (00:00:36) roam y -96
+\i (00:00:36) roam y -96 
+\i (00:00:36) roam y -96
+\i (00:00:40) exit 
+\t (00:00:40)     Journal end - Tue Apr 02 01:49:34 2019

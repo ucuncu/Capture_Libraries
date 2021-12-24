@@ -1,0 +1,147 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Dec 15 18:25:57 2021
+\t (00:00:00)         Host=HAMIT-PC User=Hamit Pid=8152 CPUs=8
+\t (00:00:00) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:00) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 669
+\i (00:00:04) trapsize 684
+\i (00:00:04) trapsize 1126
+\i (00:00:04) trapsize 1163
+\i (00:00:04) replay builder.scr.txt 
+\i (00:00:04) skill 'load "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/BRC523/AllegroV17_2/builder.ile" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'changeWorkingDir "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/BRC523/AllegroV17_2" ' 
+   (00:00:04) t
+\i (00:00:04) skill 'LB_createFootprint "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/BRC523/AllegroV17_2/BCR523UE6327HTSA1_INF-L.xml" ' 
+\t (00:00:04) Reading Footprint XML
+\t (00:00:04) Creating padstacks
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 727
+\i (00:00:04) trapsize 745
+\i (00:00:04) trapsize 1163
+\i (00:00:04) trapsize 1163
+\i (00:00:04) trapsize 116279
+\t (00:00:04) Performing DRC...
+\t (00:00:04) Multithreaded DRC update (8 threads).
+\t (00:00:04) No DRC errors detected.
+\t (00:00:04) Opening Design "BCR523UE6327HTSA1_INF-L.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 72664
+\i (00:00:05) trapsize 74468
+\i (00:00:05) trapsize 116279
+\i (00:00:05) trapsize 116279
+\i (00:00:05) trapsize 29015
+\t (00:00:05) Creating TextBlocks
+\t (00:00:05) Creating Shapes on Package layers
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/BRC523/AllegroV17_2/bcr523ue6327htsa1_inf-l.psm'.
+\t (00:00:05) Starting Create symbol...
+\t (00:00:05) Symbol Created
+\i (00:00:05) trapsize 1733
+   (00:00:05) Loading cmds.cxt 
+   (00:00:05) Loading skillExt.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 1691
+\i (00:00:05) trapsize 1733
+\i (00:00:06) trapsize 1733
+\d (00:00:06) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/BRC523/AllegroV17_2/BCR523UE6327HTSA1_INF-L.dra
+\t (00:00:06) Symbol Saved
+   (00:00:06) t
+\i (00:00:06) scriptmode +i +n 
+\i (00:00:06) step pkg map 
+\i (00:00:06) setwindow form.pkgmap3d 
+\i (00:00:06) FORM pkgmap3d stplist BCR523UE6327HTSA1_INF.step 
+\i (00:00:06) FORM pkgmap3d rotation_x 0 
+\i (00:00:06) FORM pkgmap3d save_current 
+\i (00:00:06) FORM pkgmap3d done 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) save 
+\i (00:00:06) fillin yes 
+\t (00:00:06) Symbol 'bcr523ue6327htsa1_inf-l.psm' created.
+\i (00:00:06) skill 'LB_createFootprint "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/BRC523/AllegroV17_2/BCR523UE6327HTSA1_INF-M.xml" ' 
+\t (00:00:06) Reading Footprint XML
+\t (00:00:06) Creating padstacks
+\t (00:00:06) Starting new design...
+\i (00:00:07) trapsize 13979
+\i (00:00:07) trapsize 14326
+\i (00:00:07) trapsize 29015
+\i (00:00:07) trapsize 29015
+\t (00:00:07) Opening Design "BCR523UE6327HTSA1_INF-M.dra"
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 13979
+\i (00:00:07) trapsize 14326
+\i (00:00:07) trapsize 29015
+\i (00:00:07) trapsize 29015
+\i (00:00:07) trapsize 29015
+\t (00:00:07) Creating TextBlocks
+\t (00:00:07) Creating Shapes on Package layers
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/BRC523/AllegroV17_2/bcr523ue6327htsa1_inf-m.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 1856
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 1811
+\i (00:00:07) trapsize 1856
+\i (00:00:08) trapsize 1856
+\d (00:00:08) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/BRC523/AllegroV17_2/BCR523UE6327HTSA1_INF-M.dra
+\t (00:00:08) Symbol Saved
+   (00:00:08) t
+\i (00:00:08) scriptmode +i +n 
+\i (00:00:08) step pkg map 
+\i (00:00:08) setwindow form.pkgmap3d 
+\i (00:00:08) FORM pkgmap3d stplist BCR523UE6327HTSA1_INF.step 
+\i (00:00:08) FORM pkgmap3d rotation_x 0 
+\i (00:00:08) FORM pkgmap3d save_current 
+\i (00:00:08) FORM pkgmap3d done 
+\i (00:00:08) setwindow pcb 
+\i (00:00:08) save 
+\i (00:00:08) fillin yes 
+\t (00:00:08) Symbol 'bcr523ue6327htsa1_inf-m.psm' created.
+\i (00:00:08) skill 'LB_createFootprint "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/BRC523/AllegroV17_2/BCR523UE6327HTSA1_INF.xml" ' 
+\t (00:00:08) Reading Footprint XML
+\t (00:00:08) Creating padstacks
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 14075
+\i (00:00:08) trapsize 14425
+\i (00:00:08) trapsize 29015
+\i (00:00:08) trapsize 29015
+\t (00:00:08) Opening Design "BCR523UE6327HTSA1_INF.dra"
+\t (00:00:08) Starting new design...
+\i (00:00:08) trapsize 14075
+\i (00:00:08) trapsize 14425
+\i (00:00:09) trapsize 29015
+\i (00:00:09) trapsize 29015
+\i (00:00:09) trapsize 29015
+\t (00:00:09) Creating TextBlocks
+\t (00:00:09) Creating Shapes on Package layers
+\t (00:00:09) Creating Pins
+\t (00:00:09) Creating Vias
+\t (00:00:09) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/BRC523/AllegroV17_2/bcr523ue6327htsa1_inf.psm'.
+\t (00:00:09) Starting Create symbol...
+\t (00:00:09) Symbol Created
+\i (00:00:09) trapsize 1788
+\t (00:00:09) Opening existing design...
+\i (00:00:09) trapsize 1745
+\i (00:00:09) trapsize 1788
+\i (00:00:09) trapsize 1788
+\d (00:00:09) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/BRC523/AllegroV17_2/BCR523UE6327HTSA1_INF.dra
+\t (00:00:09) Symbol Saved
+   (00:00:09) t
+\i (00:00:09) scriptmode +i +n 
+\i (00:00:09) step pkg map 
+\i (00:00:09) setwindow form.pkgmap3d 
+\i (00:00:09) FORM pkgmap3d stplist BCR523UE6327HTSA1_INF.step 
+\i (00:00:09) FORM pkgmap3d rotation_x 0 
+\i (00:00:09) FORM pkgmap3d save_current 
+\i (00:00:09) FORM pkgmap3d done 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) save 
+\i (00:00:09) fillin yes 
+\t (00:00:09) Symbol 'bcr523ue6327htsa1_inf.psm' created.
+\i (00:00:10) exit 
+\t (00:00:10)     Journal end - Wed Dec 15 18:26:06 2021

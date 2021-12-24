@@ -1,0 +1,24 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Dec 11 18:59:38 2021
+\t (00:00:00)         Host=HAMIT-PC User=Hamit Pid=7260 CPUs=8
+\t (00:00:00) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe 
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/PAM2423AECADJR/AllegroV17_2/SOP-8_PAM2423AECADJR_DIO.dra
+\i (00:00:00) trapsize 2205
+\i (00:00:00) trapsize 2255
+\i (00:00:00) trapsize 2377
+\i (00:00:01) trapsize 2588
+\i (00:00:01) generaledit 
+\i (00:00:06) save_as 
+\i (00:00:20) fillin "SOP-8_PAM2423AECADJR_DIO.dra"
+\t (00:00:21) Symbol 'sop-8_pam2423aecadjr_dio.psm' created.
+\i (00:00:21) generaledit 
+\i (00:01:24) exit 
+\t (00:01:24)     Journal end - Sat Dec 11 19:01:02 2021
+ib\symbols"
+\t (00:00:24) Symbol 'sop-8_pam2423aecadjr_dio.psm' created.
+\i (00:00:24) generaledit 
+\i (00:00:25) exit 
+\t (00:00:25)     Journal end - Sat Dec 11 19:00:55 2021

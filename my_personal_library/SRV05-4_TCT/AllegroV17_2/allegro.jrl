@@ -1,0 +1,24 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Dec 11 19:10:31 2021
+\t (00:00:00)         Host=HAMIT-PC User=Hamit Pid=14560 CPUs=8
+\t (00:00:00) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe 
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/SRV05-4_TCT/AllegroV17_2/SO6_SOT23-6L.dra
+\i (00:00:00) trapsize 823
+\i (00:00:00) trapsize 842
+\i (00:00:00) trapsize 887
+\i (00:00:01) trapsize 966
+\i (00:00:01) generaledit 
+\i (00:00:13) save_as 
+\i (00:00:30) fillin "C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols\SO6_SOT23-6L.dra"
+\i (00:00:30) cd "C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols"
+\t (00:00:31) Symbol 'so6_sot23-6l.psm' created.
+\i (00:00:31) generaledit 
+\i (00:00:31) roam y 96 
+\i (00:00:31) roam y 96
+\i (00:00:31) roam y 96 
+\i (00:00:31) roam y 96
+\i (00:01:50) exit 
+\t (00:01:50)     Journal end - Sat Dec 11 19:12:21 2021

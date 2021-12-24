@@ -1,0 +1,9 @@
+Manufacturer=Micron
+PartNumber=MT29F1G08ABAEAWP-IT:E TR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=48
+Version=1.1
+Released=2018-01-30 12:16:10
+Downloaded=2021-12-10 16:30:58
+3D=Y

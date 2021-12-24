@@ -1,0 +1,147 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Dec 11 18:30:32 2021
+\t (00:00:00)         Host=HAMIT-PC User=Hamit Pid=14236 CPUs=8
+\t (00:00:00) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Starting new design...
+\i (00:00:00) trapsize 669
+\i (00:00:01) trapsize 684
+\i (00:00:01) trapsize 1126
+\i (00:00:01) trapsize 1163
+\i (00:00:01) replay builder.scr.txt 
+\i (00:00:01) skill 'load "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/SZMMSZ4703T1G/AllegroV17_2/builder.ile" ' 
+   (00:00:01) t
+\i (00:00:01) skill 'changeWorkingDir "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/SZMMSZ4703T1G/AllegroV17_2" ' 
+   (00:00:01) t
+\i (00:00:01) skill 'LB_createFootprint "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/SZMMSZ4703T1G/AllegroV17_2/SOD-123_ONS-L.xml" ' 
+\t (00:00:01) Reading Footprint XML
+\t (00:00:01) Creating padstacks
+\t (00:00:01) Starting new design...
+\i (00:00:01) trapsize 727
+\i (00:00:01) trapsize 745
+\i (00:00:01) trapsize 1163
+\i (00:00:01) trapsize 1163
+\i (00:00:01) trapsize 116279
+\t (00:00:01) Performing DRC...
+\t (00:00:01) Multithreaded DRC update (8 threads).
+\t (00:00:01) No DRC errors detected.
+\t (00:00:01) Opening Design "SOD-123_ONS-L.dra"
+\t (00:00:01) Starting new design...
+\i (00:00:01) trapsize 72664
+\i (00:00:02) trapsize 74468
+\i (00:00:02) trapsize 116279
+\i (00:00:02) trapsize 116279
+\i (00:00:02) trapsize 28283
+\t (00:00:02) Creating TextBlocks
+\t (00:00:02) Creating Shapes on Package layers
+\t (00:00:02) Creating Pins
+\t (00:00:02) Creating Vias
+\t (00:00:02) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/SZMMSZ4703T1G/AllegroV17_2/sod-123_ons-l.psm'.
+\t (00:00:02) Starting Create symbol...
+\t (00:00:03) Symbol Created
+\i (00:00:03) trapsize 729
+   (00:00:03) Loading cmds.cxt 
+   (00:00:03) Loading skillExt.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) trapsize 711
+\i (00:00:03) trapsize 729
+\i (00:00:03) trapsize 729
+\d (00:00:03) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/SZMMSZ4703T1G/AllegroV17_2/SOD-123_ONS-L.dra
+\t (00:00:03) Symbol Saved
+   (00:00:03) t
+\i (00:00:03) scriptmode +i +n 
+\i (00:00:03) step pkg map 
+\i (00:00:03) setwindow form.pkgmap3d 
+\i (00:00:03) FORM pkgmap3d stplist SOD-123_ONS.step 
+\i (00:00:04) FORM pkgmap3d rotation_x 0 
+\i (00:00:04) FORM pkgmap3d save_current 
+\i (00:00:04) FORM pkgmap3d done 
+\i (00:00:04) setwindow pcb 
+\i (00:00:04) save 
+\i (00:00:04) fillin yes 
+\t (00:00:04) Symbol 'sod-123_ons-l.psm' created.
+\i (00:00:04) skill 'LB_createFootprint "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/SZMMSZ4703T1G/AllegroV17_2/SOD-123_ONS-M.xml" ' 
+\t (00:00:04) Reading Footprint XML
+\t (00:00:04) Creating padstacks
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 13955
+\i (00:00:04) trapsize 14301
+\i (00:00:04) trapsize 28283
+\i (00:00:04) trapsize 28283
+\t (00:00:04) Opening Design "SOD-123_ONS-M.dra"
+\t (00:00:04) Starting new design...
+\i (00:00:05) trapsize 13955
+\i (00:00:05) trapsize 14301
+\i (00:00:05) trapsize 28283
+\i (00:00:05) trapsize 28283
+\i (00:00:05) trapsize 28379
+\t (00:00:05) Creating TextBlocks
+\t (00:00:05) Creating Shapes on Package layers
+\t (00:00:05) Creating Pins
+\t (00:00:05) Creating Vias
+\t (00:00:05) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/SZMMSZ4703T1G/AllegroV17_2/sod-123_ons-m.psm'.
+\t (00:00:05) Starting Create symbol...
+\t (00:00:05) Symbol Created
+\i (00:00:05) trapsize 887
+\t (00:00:05) Opening existing design...
+\i (00:00:05) trapsize 865
+\i (00:00:05) trapsize 887
+\i (00:00:05) trapsize 887
+\d (00:00:05) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/SZMMSZ4703T1G/AllegroV17_2/SOD-123_ONS-M.dra
+\t (00:00:05) Symbol Saved
+   (00:00:05) t
+\i (00:00:05) scriptmode +i +n 
+\i (00:00:05) step pkg map 
+\i (00:00:05) setwindow form.pkgmap3d 
+\i (00:00:05) FORM pkgmap3d stplist SOD-123_ONS.step 
+\i (00:00:05) FORM pkgmap3d rotation_x 0 
+\i (00:00:05) FORM pkgmap3d save_current 
+\i (00:00:06) FORM pkgmap3d done 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) save 
+\i (00:00:06) fillin yes 
+\t (00:00:06) Symbol 'sod-123_ons-m.psm' created.
+\i (00:00:06) skill 'LB_createFootprint "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/SZMMSZ4703T1G/AllegroV17_2/SOD-123_ONS.xml" ' 
+\t (00:00:06) Reading Footprint XML
+\t (00:00:06) Creating padstacks
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 13955
+\i (00:00:06) trapsize 14301
+\i (00:00:06) trapsize 28379
+\i (00:00:06) trapsize 28379
+\t (00:00:06) Opening Design "SOD-123_ONS.dra"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 13955
+\i (00:00:06) trapsize 14301
+\i (00:00:07) trapsize 28379
+\i (00:00:07) trapsize 28379
+\i (00:00:07) trapsize 28331
+\t (00:00:07) Creating TextBlocks
+\t (00:00:07) Creating Shapes on Package layers
+\t (00:00:07) Creating Pins
+\t (00:00:07) Creating Vias
+\t (00:00:07) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/SZMMSZ4703T1G/AllegroV17_2/sod-123_ons.psm'.
+\t (00:00:07) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 794
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 775
+\i (00:00:07) trapsize 794
+\i (00:00:07) trapsize 794
+\d (00:00:07) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/SZMMSZ4703T1G/AllegroV17_2/SOD-123_ONS.dra
+\t (00:00:07) Symbol Saved
+   (00:00:07) t
+\i (00:00:07) scriptmode +i +n 
+\i (00:00:07) step pkg map 
+\i (00:00:07) setwindow form.pkgmap3d 
+\i (00:00:07) FORM pkgmap3d stplist SOD-123_ONS.step 
+\i (00:00:07) FORM pkgmap3d rotation_x 0 
+\i (00:00:07) FORM pkgmap3d save_current 
+\i (00:00:07) FORM pkgmap3d done 
+\i (00:00:07) setwindow pcb 
+\i (00:00:07) save 
+\i (00:00:07) fillin yes 
+\t (00:00:08) Symbol 'sod-123_ons.psm' created.
+\i (00:00:08) exit 
+\t (00:00:08)     Journal end - Sat Dec 11 18:30:40 2021

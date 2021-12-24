@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "FXAS21002CQR1"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "FXAS21002CQR1")
+        (spec "default")
+    )
+)

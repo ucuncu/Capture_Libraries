@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FXAS21002CQR1
+D Gyroscopes 3axis MEMS Gyroscope
+K
+F https://componentsearchengine.com/Datasheets/1/FXAS21002CQR1.pdf
+$ENDCMP
+#
+#End Doc Library

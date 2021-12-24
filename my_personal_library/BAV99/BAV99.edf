@@ -1,0 +1,251 @@
+
+(EDIF
+  (rename BAV99 "BAV99")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2021 12 07 09 35 19)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename BAV99 "BAV99")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename KA2KA "KA2KA")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "D")
+          (property (rename VALUE "Value") (string "KA2KA"))
+          (port
+            (rename A "A")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (designator "1")
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename C "C")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (designator "2")
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename AC "AC")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (designator "3")
+            (property
+              (rename ORDER "Order")
+              (integer 2)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -20000 -5000) (pt 20000 10000)))
+            (portImplementation
+              (name C)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -20000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -20000 0)
+                    (pt -10000 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name A)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 20000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 20000 0)
+                    (pt 10000 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name AC)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 0 10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 0 10000)
+                    (pt 0 0)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -5000 5000) (pt -15000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -15000 0) (pt -5000 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -15000 -5000) (pt -15000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 0) (pt -15000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -5000 -5000) (pt -5000 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -15000 0) (pt -15000 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 15000 5000) (pt 5000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 5000 0) (pt 15000 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 5000 -5000) (pt 5000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -15000 0) (pt 5000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 10000 0) (pt 5000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 15000 -5000) (pt 15000 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 5000 0) (pt 5000 5000)))
+            )
+            (figure
+              (figureGroupOverride PARTBODY
+                (fillPattern 1 1
+                  (boolean
+                    (boolean
+                      (true )
+                    )
+                  )
+                )
+              )
+              (circle (pt -500 0) (pt 500 0))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt 3000 7901))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -19000 -13598))
+              )
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "SOT23"))
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "BAV99"))
+            )
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "
+Diode Array 1 Pair Series Connection Standard 100V 215mA (DC) Surface Mount TO-236-3, SC-59, SOT-23-3
+"))
+            )
+            (property
+              (rename Availability "Availability")
+              (string
+              (stringDisplay "In Stock"))
+            )
+            (property
+              (rename Price "Price")
+              (string
+              (stringDisplay "None"))
+            )
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay "SOT-23-3 Panasonic Electronic"))
+            )
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "Panasonic Electronic"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

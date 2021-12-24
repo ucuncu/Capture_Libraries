@@ -1,0 +1,40 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+FXAS21002CQR1 FXAS21002CQR1 I ANA 6 1 0 0 0
+TIMESTAMP 2019.04.05.10.37.16
+"Mouser Part Number" 841-FXAS21002CQR1
+"Mouser Price/Stock" https://www.mouser.com/Search/Refine.aspx?Keyword=841-FXAS21002CQR1
+"Manufacturer_Name" Nexperia
+"Manufacturer_Part_Number" FXAS21002CQR1
+"Description" Gyroscopes 3axis MEMS Gyroscope
+"Datasheet Link" https://componentsearchengine.com/Datasheets/1/FXAS21002CQR1.pdf
+GATE 1 24 0
+FXAS21002CQR1
+1 0 G GND1
+2 0 L INT2/PWR_CTRL
+3 0 L INT1
+4 0 L RST_B
+5 0 G GND2
+6 0 G RSVD_GND_1
+7 0 G RSVD_GND_2
+8 0 U I2C_B/SPI
+9 0 G RSVD_GND_3
+10 0 G RSVD_GND_4
+11 0 L SCL/SCLK
+12 0 U SDA/MOSI/SPI_DATA
+13 0 U SA0/MISO
+14 0 G GND3
+15 0 P VDD
+16 0 U VREGD
+17 0 L SPI_CS_B
+18 0 P VDDIO
+19 0 G GND4
+20 0 G RSVD_GND_5
+21 0 G RSVD_GND_6
+22 0 G RSVD_GND_7
+23 0 G RSVD_GND_8
+24 0 G RSVD_GND_9
+
+*END*
+*REMARK* SamacSys ECAD Model
+315094/127516/2.38/24/4/Integrated Circuit

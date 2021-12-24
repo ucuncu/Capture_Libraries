@@ -1,0 +1,36 @@
+skill load "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/SZMMSZ4703T1G/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/SZMMSZ4703T1G/AllegroV17_2" 
+skill LB_createFootprint "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/SZMMSZ4703T1G/AllegroV17_2/SOD-123_ONS-L.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist SOD-123_ONS.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/SZMMSZ4703T1G/AllegroV17_2/SOD-123_ONS-M.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist SOD-123_ONS.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+skill LB_createFootprint "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/SZMMSZ4703T1G/AllegroV17_2/SOD-123_ONS.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist SOD-123_ONS.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 

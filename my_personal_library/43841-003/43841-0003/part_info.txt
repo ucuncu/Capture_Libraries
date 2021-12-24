@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=43841-0003
+PartCategory=Connector
+PackageCategory=Other
+PinCount=18
+Version=1.1
+Released=2018-12-20 11:43:25
+Downloaded=2021-12-11 08:35:55
+3D=Y

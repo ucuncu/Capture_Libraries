@@ -1,0 +1,315 @@
+
+(EDIF
+  (rename ACM1211_45_102_45_2PL_45_TL01 "ACM1211-102-2PL-TL01")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2020 09 07 09 02 14)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename ACM1211_45_102_45_2PL_45_TL01 "ACM1211-102-2PL-TL01")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename ACM1211_45_102_45_2PL_45_TL01 "ACM1211-102-2PL-TL01")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "FL")
+          (property (rename VALUE "Value") (string "ACM1211-102-2PL-TL01"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &3 "3")
+            (designator "3")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 2)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &4 "4")
+            (designator "4")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 3)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -40000 -20000) (pt 40000 20000)))
+            (portImplementation
+              (name &1)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -40000 10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -40000 10000)
+                    (pt -20000 10000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &2)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -40000 -10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -40000 -10000)
+                    (pt -20000 -10000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &3)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 40000 -10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 40000 -10000)
+                    (pt 20000 -10000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &4)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 40000 10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 40000 10000)
+                    (pt 20000 10000)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -30000 20000) (pt 30000 20000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 30000 20000) (pt 30000 -20000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 30000 -20000) (pt -30000 -20000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -30000 -20000) (pt -30000 20000)))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -31216 24165))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -30204 -34070))
+              )
+            )
+            (figure PARTBODY
+              (openShape
+                (curve
+                  (arc (pt -20000 -10000) (pt -15000 -5000) (pt -10000 -10000))
+                )
+              )
+            )
+            (figure PARTBODY
+              (openShape
+                (curve
+                  (arc (pt -10000 -10000) (pt -5000 -5000) (pt 0 -10000))
+                )
+              )
+            )
+            (figure PARTBODY
+              (openShape
+                (curve
+                  (arc (pt 0 -10000) (pt 5000 -5000) (pt 10000 -10000))
+                )
+              )
+            )
+            (figure PARTBODY
+              (openShape
+                (curve
+                  (arc (pt 10000 -10000) (pt 15000 -5000) (pt 20000 -10000))
+                )
+              )
+            )
+            (figure PARTBODY
+              (openShape
+                (curve
+                  (arc (pt -20000 10000) (pt -15000 5000) (pt -10000 10000))
+                )
+              )
+            )
+            (figure PARTBODY
+              (openShape
+                (curve
+                  (arc (pt -10000 10000) (pt -5000 5000) (pt 0 10000))
+                )
+              )
+            )
+            (figure PARTBODY
+              (openShape
+                (curve
+                  (arc (pt 0 10000) (pt 5000 5000) (pt 10000 10000))
+                )
+              )
+            )
+            (figure PARTBODY
+              (openShape
+                (curve
+                  (arc (pt 10000 10000) (pt 15000 5000) (pt 20000 10000))
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 2500) (pt 20000 2500)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 -2500) (pt 20000 -2500)))
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "FIL_ACM1211-102-2PL-TL01"))
+            (property
+              (rename Availability "Availability")
+              (string
+              (stringDisplay "Good"))
+            )
+            (property
+              (rename Price "Price")
+              (string
+              (stringDisplay "None"))
+            )
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "TDK"))
+            )
+            (property
+              (rename DigiKey_Purchase_URL "DigiKey_Purchase_URL")
+              (string
+              (stringDisplay "https://snapeda.com/shop?store=DigiKey&id=239919"))
+            )
+            (property
+              (rename Mouser_Purchase_URL "Mouser_Purchase_URL")
+              (string
+              (stringDisplay "https://snapeda.com/shop?store=Mouser&id=239919"))
+            )
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "
+2 Line Common Mode Choke Surface Mount 1 kOhms @ 100MHz 6A DCR 14mOhm
+"))
+            )
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "ACM1211-102-2PL-TL01"))
+            )
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay "Horizontal-4 TDK"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

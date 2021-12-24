@@ -1,0 +1,59 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Dec 10 13:53:09 2021
+\t (00:00:00)         Host=HAMIT-PC User=Hamit Pid=8236 CPUs=8
+\t (00:00:00) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:04) Starting new design...
+\i (00:00:05) trapsize 669
+\i (00:00:05) trapsize 684
+\i (00:00:05) trapsize 1126
+\i (00:00:05) trapsize 1163
+\i (00:00:05) replay builder.scr.txt 
+\i (00:00:05) skill 'load "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/FH12-6S-1SH-55/AllegroV17_2/builder.ile" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'changeWorkingDir "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/FH12-6S-1SH-55/AllegroV17_2" ' 
+   (00:00:05) t
+\i (00:00:05) skill 'LB_createFootprint "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/FH12-6S-1SH-55/AllegroV17_2/CON6_1X6_DRBF_HST_HIR.xml" ' 
+\t (00:00:05) Reading Footprint XML
+\t (00:00:05) Creating padstacks
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 727
+\i (00:00:05) trapsize 745
+\i (00:00:05) trapsize 1163
+\i (00:00:05) trapsize 1163
+\i (00:00:05) trapsize 116279
+\t (00:00:05) Performing DRC...
+\t (00:00:05) Multithreaded DRC update (8 threads).
+\t (00:00:05) No DRC errors detected.
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 72664
+\i (00:00:06) trapsize 74468
+\i (00:00:06) trapsize 116279
+\i (00:00:06) trapsize 116279
+\t (00:00:06) Opening Design "CON6_1X6_DRBF_HST_HIR.dra"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 72664
+\i (00:00:06) trapsize 74468
+\i (00:00:06) trapsize 116279
+\i (00:00:06) trapsize 116279
+\i (00:00:06) trapsize 25958
+\t (00:00:06) Creating TextBlocks
+\t (00:00:06) Creating Shapes on Package layers
+\t (00:00:06) Creating Pins
+\t (00:00:06) Creating Vias
+\t (00:00:06) Creating package symbol 'C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/FH12-6S-1SH-55/AllegroV17_2/con6_1x6_drbf_hst_hir.psm'.
+\t (00:00:06) Starting Create symbol...
+\t (00:00:07) Symbol Created
+\i (00:00:07) trapsize 2063
+   (00:00:07) Loading cmds.cxt 
+   (00:00:07) Loading skillExt.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) trapsize 2013
+\i (00:00:08) trapsize 2063
+\i (00:00:08) trapsize 2063
+\d (00:00:08) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/FH12-6S-1SH-55/AllegroV17_2/CON6_1X6_DRBF_HST_HIR.dra
+\t (00:00:08) Symbol Saved
+   (00:00:08) t
+\i (00:00:08) exit 
+\t (00:00:08)     Journal end - Fri Dec 10 13:53:17 2021

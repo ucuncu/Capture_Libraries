@@ -1,0 +1,28 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Oct 26 00:49:08 2019
+\t (00:00:00)         Host=HAMIT-PC User=Hamit Pid=3364 CPUs=8
+\t (00:00:00) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\DRV8839\QFN50P300X200X80-13N.dra
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:03) fillin yes 
+\d (00:00:03) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/DRV8839/QFN50P300X200X80-13N.dra
+\i (00:00:03) trapsize 2121
+\i (00:00:03) trapsize 2212
+\i (00:00:03) trapsize 2212
+\i (00:00:03) trapsize 2613
+\i (00:00:03) generaledit 
+\i (00:00:07) roam y -96 
+\i (00:00:07) roam y -96
+\i (00:00:07) roam y 96 
+\i (00:00:07) roam y 96
+\i (00:00:07) roam y 96 
+\i (00:00:07) roam y 64
+\i (00:00:08) roam y 96 
+\i (00:00:15) save_as 
+\i (00:00:34) fillin "C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols\QFN50P300X200X80-13N.dra"
+\i (00:00:34) cd "C:\Cadence\Cadence\Cadence_SPB_17.2-2016\share\pcb\pcb_lib\symbols"
+\t (00:00:34) Symbol 'qfn50p300x200x80-13n.psm' created.
+\i (00:00:34) generaledit 
+\i (00:00:45) exit 
+\t (00:00:45)     Journal end - Sat Oct 26 00:49:54 2019

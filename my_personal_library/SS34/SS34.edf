@@ -1,0 +1,187 @@
+
+(EDIF
+  (rename SS34 "SS34")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2021 03 02 05 33 10)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename SS34 "SS34")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename SS34 "SS34")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "D")
+          (property (rename VALUE "Value") (string "SS34"))
+          (port
+            (rename A "A")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (designator "A")
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename K "K")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (designator "C")
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -20000 -5000) (pt 20000 5000)))
+            (portImplementation
+              (name K)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt 16062 0))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 20000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 20000 0)
+                    (pt 10000 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name A)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt -16062 0))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -20000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -20000 0)
+                    (pt -10000 0)
+                  )
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -20000 10000))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -20000 -15000))
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -5000 -5000) (pt 5000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 5000 0) (pt -5000 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 7500 5000) (pt 5000 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 5000 5000) (pt 5000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -5000 5000) (pt -5000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -5000 0) (pt -5000 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 5000 0) (pt 5000 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 7500 5000) (pt 7500 4000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 5000 -5000) (pt 2500 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2500 -4000) (pt 2500 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 0) (pt -5000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 10000 0) (pt 5000 0)))
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "DIOM7959X265N"))
+          )
+        )
+      )
+    )
+  )
+)

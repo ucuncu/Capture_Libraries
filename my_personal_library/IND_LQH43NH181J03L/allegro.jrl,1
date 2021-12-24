@@ -1,0 +1,24 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Oct 26 05:26:19 2019
+\t (00:00:00)         Host=HAMIT-PC User=Hamit Pid=2672 CPUs=8
+\t (00:00:00) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\IND_LQH43NH181J03L\IND_LQH43NH181J03L.dra
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\i (00:00:02) fillin yes 
+\d (00:00:02) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/IND_LQH43NH181J03L/IND_LQH43NH181J03L.dra
+\i (00:00:02) trapsize 1074
+\i (00:00:02) trapsize 1098
+\i (00:00:02) trapsize 1098
+\i (00:00:02) trapsize 1196
+\i (00:00:03) generaledit 
+\i (00:00:11) pick grid 11.8245 -4.0361
+\t (00:00:11) last pick:  12.7000 -5.0800
+\i (00:00:12) pick grid 11.2744 1.5843
+\t (00:00:12) last pick:  10.1600 2.5400
+\i (00:00:12) drag_start grid 7.2565 -5.2080
+\i (00:00:13) drag_stop -6.4955 5.9849
+\i (00:00:13) pick grid 11.1070 3.7129
+\t (00:00:13) last pick:  10.1600 2.5400
+\i (00:01:50) exit 
+\t (00:01:50)     Journal end - Sat Oct 26 05:28:10 2019

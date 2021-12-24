@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI2329DS-T1-GE3
+D Vishay SI2329DS-T1-GE3 P-channel MOSFET Transistor, 6 A, -8 V, 3-Pin TO-236
+K
+F http://www.vishay.com/docs/67690/si2329ds.pdf
+$ENDCMP
+#
+#End Doc Library

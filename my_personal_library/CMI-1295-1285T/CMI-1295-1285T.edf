@@ -1,0 +1,214 @@
+
+(EDIF
+  (rename CMI_45_1295_45_1285T "CMI-1295-1285T")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2019 10 09 20 35 17)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename CMI_45_1295_45_1285T "CMI-1295-1285T")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename CMI_45_1295_45_1285T "CMI-1295-1285T")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "LS")
+          (property (rename VALUE "Value") (string "CMI-1295-1285T"))
+          (port
+            (rename N "N")
+            (designator "N")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename P "P")
+            (designator "P")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -12500 -20000) (pt 7500 20000)))
+            (portImplementation
+              (name P)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 0 20000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 0 20000)
+                    (pt 0 10000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name N)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 0 -20000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 0 -20000)
+                    (pt 0 -10000)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -2500 5000) (pt 0 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 5000) (pt 2500 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2500 5000) (pt 2500 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2500 -5000) (pt 0 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -5000) (pt -2500 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -2500 -5000) (pt -2500 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2500 5000) (pt 7500 12500)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 7500 12500) (pt 7500 -12500)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 7500 -12500) (pt 2500 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 5000) (pt 0 10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -5000) (pt 0 -10000)))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -15055 35125))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -15051 -45149))
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 12500) (pt -10000 7500)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -12500 10000) (pt -7500 10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -12500 -10000) (pt -7500 -10000)))
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "CUI_CMI-1295-1285T"))
+            (property
+              (rename Availability "Availability")
+              (string
+              (stringDisplay "Unavailable"))
+            )
+            (property
+              (rename Price "Price")
+              (string
+              (stringDisplay "None"))
+            )
+            (property
+              (rename CUI_purchase_URL "CUI_purchase_URL")
+              (string
+              (stringDisplay "https://www.cui.com/product/audio/buzzers/audio-indicators/cmi-1295-1285t?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"))
+            )
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "CUI Inc."))
+            )
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "12 mm, 12 Vdc, 85 dB, Through Hole, Driving Circuit, Magnetic Audio Indicator Buzzer"))
+            )
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "CMI-1295-1285T"))
+            )
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay "None"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

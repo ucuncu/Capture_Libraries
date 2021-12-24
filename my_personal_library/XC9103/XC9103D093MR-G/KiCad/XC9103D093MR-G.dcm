@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XC9103D093MR-G
+D Ceramic Capacitor Compatible, Step-up DC/DC Controller
+K
+F https://www.torex.com.cn/file/xc9105/XC9103-XC9104-XC9105.pdf
+$ENDCMP
+#
+#End Doc Library

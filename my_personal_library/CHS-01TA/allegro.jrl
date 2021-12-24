@@ -1,0 +1,17 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Apr 02 22:57:23 2019
+\t (00:00:01)         Host=HAMIT-PC User=Hamit Pid=16404 CPUs=8
+\t (00:00:01) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\CHS-01TA\CHS-01TA.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:05) fillin yes 
+\d (00:00:05) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/CHS-01TA/CHS-01TA.dra
+\i (00:00:05) trapsize 2803
+\i (00:00:05) trapsize 2867
+\i (00:00:05) trapsize 4201
+\i (00:00:05) trapsize 4269
+\i (00:00:06) etchedit 
+\i (00:00:08) roam x -96 
+\i (00:00:11) exit 
+\t (00:00:11)     Journal end - Tue Apr 02 22:57:33 2019

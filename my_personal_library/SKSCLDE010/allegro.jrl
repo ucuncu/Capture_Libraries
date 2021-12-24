@@ -1,0 +1,18 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Apr 02 15:58:37 2019
+\t (00:00:01)         Host=HAMIT-PC User=Hamit Pid=10312 CPUs=8
+\t (00:00:01) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\SKSCLDE010\SKSCLDE010.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:09) fillin no 
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 1235
+\i (00:00:09) trapsize 1288
+\i (00:00:09) trapsize 1580
+\i (00:00:09) trapsize 1616
+\i (00:00:09) etchedit 
+\i (00:00:10) exit 
+\e (00:00:10) Do you want to save the changes you made to unnamed?
+\i (00:00:12) fillin no 
+\t (00:00:12)     Journal end - Tue Apr 02 15:58:47 2019

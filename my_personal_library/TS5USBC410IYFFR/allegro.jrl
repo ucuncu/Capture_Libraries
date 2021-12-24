@@ -1,0 +1,141 @@
+\t (00:00:02) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Apr 02 18:45:54 2019
+\t (00:00:02)         Host=HAMIT-PC User=Hamit Pid=5924 CPUs=8
+\t (00:00:02) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\TS5USBC410IYFFR\BGA12N40P3X4_119X159X62N.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:06) fillin yes 
+\d (00:00:06) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/TS5USBC410IYFFR/BGA12N40P3X4_119X159X62N.dra
+\i (00:00:06) trapsize 1141
+\i (00:00:06) trapsize 1167
+\i (00:00:06) trapsize 1167
+\i (00:00:06) trapsize 1271
+\i (00:00:07) etchedit 
+\i (00:00:08) roam y -96 
+\i (00:00:08) roam y -96
+\i (00:00:08) roam y -96 
+\i (00:00:08) roam y -48
+\i (00:00:09) roam y 96 
+\i (00:00:09) roam y 96
+\i (00:00:10) roam x -96 
+\i (00:00:10) roam x -96 
+\i (00:00:11) roam x -96 
+\i (00:00:13) drag_start grid 1.8927 -2.3927
+\i (00:00:13) drag_stop -4.4623 3.9368
+\i (00:00:14) pick grid 4.2314 3.7081
+\t (00:00:14) last pick:  4.4450 3.8100
+\i (00:00:15) zoom in 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 5.1210 1.8270
+\i (00:00:15) trapsize 635
+\i (00:00:16) roam y 96 
+\i (00:00:16) roam y 96
+\i (00:00:16) roam y 96 
+\i (00:00:16) roam y 96
+\i (00:00:18) zoom fit 
+\i (00:00:18) trapsize 374
+\i (00:00:19) roam y -96 
+\i (00:00:19) roam y -96
+\i (00:00:20) roam x -96 
+\i (00:00:20) roam x -96
+\i (00:00:20) roam x 96 
+\i (00:00:20) roam x 96
+\i (00:00:20) roam x 96 
+\i (00:00:20) roam x 96
+\i (00:00:20) roam x 96 
+\i (00:00:20) roam x 96
+\i (00:00:22) zoom in 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom in -0.1702 0.5004
+\i (00:00:22) trapsize 187
+\i (00:00:23) roam y 96 
+\i (00:00:23) roam y 96
+\i (00:00:23) roam y 96 
+\i (00:00:23) roam y 96
+\i (00:00:23) roam y 96 
+\i (00:00:23) roam y 96
+\i (00:00:23) roam x -96 
+\i (00:00:23) roam x -96
+\i (00:00:24) roam y -96 
+\i (00:00:24) roam y -96
+\i (00:00:26) zoom in 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in -0.5296 -0.2183
+\i (00:00:26) trapsize 94
+\i (00:00:26) roam x 96 
+\i (00:00:26) roam x 96
+\i (00:00:27) roam x 96 
+\i (00:00:27) roam x 96
+\i (00:00:27) roam x 96 
+\i (00:00:27) roam x 96
+\i (00:00:27) roam x 96 
+\i (00:00:27) roam x 96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -96 
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y 96 
+\i (00:00:28) roam y 96
+\i (00:00:28) roam y 96 
+\i (00:00:28) roam y 96
+\i (00:00:29) roam y 96 
+\i (00:00:29) roam y 96
+\i (00:00:29) roam y 96 
+\i (00:00:29) roam y 96
+\i (00:00:29) roam y 96 
+\i (00:00:29) roam y 96
+\i (00:00:29) roam y -96 
+\i (00:00:29) roam y -96
+\i (00:00:29) roam y -96 
+\i (00:00:29) roam y -96
+\i (00:00:29) roam y -96 
+\i (00:00:29) roam y -96
+\i (00:00:29) roam y -96 
+\i (00:00:29) roam y -96
+\i (00:00:30) roam x 96 
+\i (00:00:30) roam x 96
+\i (00:00:31) zoom out 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 0.3669 0.1411
+\i (00:00:31) trapsize 187
+\i (00:00:32) roam y 96 
+\i (00:00:32) roam y 96
+\i (00:00:36) roam y 96 
+\i (00:00:36) roam y 96
+\i (00:00:36) roam y 96 
+\i (00:00:36) roam y 96
+\i (00:00:36) roam y -96 
+\i (00:00:36) roam y -96
+\i (00:00:36) roam y -96 
+\i (00:00:36) roam y -96
+\i (00:00:36) roam y -96 
+\i (00:00:36) roam y -96
+\i (00:00:37) roam y -96 
+\i (00:00:37) roam y -96
+\i (00:00:37) roam y 96 
+\i (00:00:37) roam y 96
+\i (00:00:37) roam y 96 
+\i (00:00:37) roam y 96
+\i (00:00:37) roam y 96 
+\i (00:00:37) roam y 96
+\i (00:00:38) roam y -96 
+\i (00:00:38) roam y -96
+\i (00:00:39) zoom out 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 0.3669 -0.2183
+\i (00:00:39) trapsize 374
+\i (00:00:46) roam x 96 
+\i (00:00:46) roam x 96
+\i (00:00:46) roam x 96 
+\i (00:00:46) roam x 96
+\i (00:00:46) roam x -96 
+\i (00:00:46) roam x -96
+\i (00:00:46) roam x -96 
+\i (00:00:46) roam x -96
+\i (00:00:46) roam x -96 
+\i (00:00:46) roam x -96
+\i (00:00:49) exit 
+\t (00:00:49)     Journal end - Tue Apr 02 18:46:41 2019

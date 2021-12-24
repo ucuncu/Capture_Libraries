@@ -1,0 +1,15 @@
+.FXAS21002CQR1 :1 ;Gyroscopes 3axis MEMS Gyroscope
+FXAS21002CQR1
+*STM IC
+*NGS
+*PLB 1="GND1" 2="INT2/PWR_CTRL" 3="INT1" 4="RST_B" 5="GND2" 6="RSVD_GND_1" 7="RSVD_GND_2" 8="I2C_B/SPI" 9="RSVD_GND_3" 10="RSVD_GND_4" 11="SCL/SCLK" 12="SDA/MOSI/SPI_DATA" 13="SA0/MISO" 14="GND3" 15="VDD" 16="VREGD" 17="SPI_CS_B" 18="VDDIO" 19="GND4" 20="RSVD_GND_5" 21="RSVD_GND_6" 22="RSVD_GND_7" 23="RSVD_GND_8" 24="RSVD_GND_9"
+*MXP 24
+*DFN FXAS21002CQR1
+~!Mouser Part Number (841-FXAS21002CQR1)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=841-FXAS21002CQR1)
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (FXAS21002CQR1)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/FXAS21002CQR1.pdf)
+~!Height (-)
+FXAS21002CQR1
+1.1!G 2.1!I 3.1!I 4.1!I 5.1!G 6.1!G 7.1!G 8.1!U 9.1!G 10.1!G 11.1!I 12.1!U 13.1!U 14.1!G 15.1!P 16.1!U 17.1!I 18.1!P 19.1!G 20.1!G 21.1!G 22.1!G 23.1!G 24.1!G 

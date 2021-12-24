@@ -1,0 +1,9 @@
+Manufacturer=Torex
+PartNumber=XC9103D093MR-G
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.1
+Released=2018-08-25 10:40:51
+Downloaded=2021-12-06 15:45:02
+3D=Y

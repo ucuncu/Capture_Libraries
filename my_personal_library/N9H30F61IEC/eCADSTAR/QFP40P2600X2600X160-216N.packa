@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "N9H30F61IEC"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-11-08-09:44:39)
+    (mountForm default
+        (footprintRef "QFP40P2600X2600X160-216N")
+        (spec "System")
+    )
+)

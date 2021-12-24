@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP N9H30F61IEC
+D Support 16 KB instruction cache and 16 KB data cache
+K
+F https://www.nuvoton.com/export/resource-files/DS_N9H30_Series_EN_Rev1.43.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'N9H30F61IEC'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nuvoton", "N9H30F61IEC" (!) = "", "QFP40P2600X2600X160-216N", "Quad Flat Packages", "", "", "", "", "Support 16 KB instruction cache and 16 KB data cache", "https://www.nuvoton.com/export/resource-files/DS_N9H30_Series_EN_Rev1.43.pdf", "1.6 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Nuvoton
+PartNumber=N9H30F61IEC
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=216
+Version=1.1
+Released=2021-01-26 14:51:13
+Downloaded=2021-12-06 10:47:41
+3D=Y

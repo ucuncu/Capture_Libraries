@@ -1,0 +1,89 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Fri Mar 29 13:23:15 2019
+\t (00:00:02)         Host=HAMIT-PC User=Hamit Pid=1988 CPUs=8
+\t (00:00:02) 
+\t (00:00:04) Opening existing design...
+\d (00:00:05) Database opened: C:/Cadence/SPB_16.6/tools/capture/library/my_personal_library/2-1825027-0/TE_2-1825027-0.dra
+\i (00:00:05) trapsize 10488
+\i (00:00:05) trapsize 9997
+\i (00:00:05) trapsize 10536
+\i (00:00:05) trapsize 10012
+\i (00:00:05) trapsize 7556
+\i (00:00:05) trapsize 10012
+\i (00:00:05) generaledit 
+\i (00:00:07) roam y -96 
+\i (00:00:07) roam y -96 
+\i (00:00:08) roam y -96 
+\i (00:00:08) roam y -96 
+\i (00:00:08) roam y -96 
+\i (00:00:11) zoom in 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 103.6605 15.7449
+\i (00:00:11) trapsize 5006
+\i (00:00:12) roam y 96 
+\i (00:00:12) roam y 96
+\i (00:00:13) roam y 96 
+\i (00:00:13) roam y 96
+\i (00:00:13) roam y 96 
+\i (00:00:13) roam y 96
+\i (00:00:14) zoom in 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 35.0803 -13.0889
+\i (00:00:14) trapsize 2503
+\i (00:00:14) roam y -96 
+\i (00:00:14) roam y -96
+\i (00:00:14) roam y -96 
+\i (00:00:14) roam y -96
+\i (00:00:15) roam y 96 
+\i (00:00:15) roam y 96
+\i (00:00:16) zoom in 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 18.2099 -8.2832
+\i (00:00:16) trapsize 1251
+\i (00:00:17) roam y 96 
+\i (00:00:17) roam y 96
+\i (00:00:17) roam y 96 
+\i (00:00:17) roam y 96
+\i (00:00:17) roam y 96 
+\i (00:00:17) roam y 96
+\i (00:00:17) roam y -96 
+\i (00:00:17) roam y -96
+\i (00:00:17) roam y -96 
+\i (00:00:17) roam y -96
+\i (00:00:17) roam y -96 
+\i (00:00:17) roam y -96
+\i (00:00:17) roam y -96 
+\i (00:00:17) roam y -96
+\i (00:00:17) roam y -96 
+\i (00:00:17) roam y -96
+\i (00:00:17) roam y -96 
+\i (00:00:17) roam y -96
+\i (00:00:18) roam y 96 
+\i (00:00:18) roam y 96
+\i (00:00:19) roam x 96 
+\i (00:00:19) roam x 96
+\i (00:00:20) roam x -96 
+\i (00:00:20) roam x -96
+\i (00:00:20) roam x -96 
+\i (00:00:20) roam x -96
+\i (00:00:20) roam x -96 
+\i (00:00:20) roam x -96
+\i (00:00:20) roam x -96 
+\i (00:00:20) roam x -96
+\i (00:00:20) roam x -96 
+\i (00:00:20) roam x -96
+\i (00:00:20) roam x -96 
+\i (00:00:20) roam x -96
+\i (00:00:21) roam y 96 
+\i (00:00:21) roam y 96
+\i (00:00:21) roam y 96 
+\i (00:00:21) roam y 96
+\i (00:00:22) roam y -96 
+\i (00:00:22) roam y -96
+\i (00:00:26) 3d_viewer 
+\i (00:00:26) setwindow pcb3D
+\i (00:00:26) trapsize 1251
+\i (00:00:26) setwindow pcb
+\i (00:00:26) generaledit 
+\i (00:00:43) exit 
+\t (00:00:43)     Journal end - Fri Mar 29 13:23:56 2019

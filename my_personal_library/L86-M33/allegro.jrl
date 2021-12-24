@@ -1,0 +1,19 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu Dec 10 14:17:16 2020
+\t (00:00:00)         Host=HAMIT-PC User=Hamit Pid=17204 CPUs=8
+\t (00:00:00) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\L86-M33\XCVR_L86-M33.dra
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\i (00:00:01) fillin yes 
+\d (00:00:01) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/L86-M33/XCVR_L86-M33.dra
+\i (00:00:02) trapsize 582
+\i (00:00:02) trapsize 595
+\i (00:00:02) trapsize 679
+\i (00:00:02) trapsize 681
+\i (00:00:02) trapsize 2210
+\i (00:00:02) generaledit 
+\i (00:00:06) pick grid 2.7476 3.6065
+\t (00:00:06) last pick:  2.5400 2.5400
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Thu Dec 10 14:17:24 2020

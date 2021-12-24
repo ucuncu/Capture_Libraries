@@ -1,0 +1,45 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Dec 10 13:53:25 2021
+\t (00:00:00)         Host=HAMIT-PC User=Hamit Pid=3308 CPUs=8
+\t (00:00:00) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\FH12-6S-1SH-55\AllegroV17_2\CON6_1X6_DRBF_HST_HIR.dra
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/FH12-6S-1SH-55/AllegroV17_2/CON6_1X6_DRBF_HST_HIR.dra
+\i (00:00:04) trapsize 1853
+\i (00:00:04) trapsize 1895
+\i (00:00:05) trapsize 1998
+\i (00:00:05) trapsize 2175
+\i (00:00:05) generaledit 
+\i (00:00:12) roam y 96 
+\i (00:00:12) roam y 96
+\i (00:00:12) roam y 96 
+\i (00:00:12) roam y 96
+\i (00:00:13) roam y 96 
+\i (00:00:13) roam y 96
+\i (00:00:13) roam y -96 
+\i (00:00:13) roam y -96
+\i (00:00:13) roam y -96 
+\i (00:00:13) roam y -96
+\i (01:28:18) roam y -96 
+\i (01:28:18) roam y -96
+\i (01:28:18) roam y -96 
+\i (01:28:18) roam y -96
+\i (01:28:18) roam y -96 
+\i (01:28:18) roam y -96
+\i (01:28:18) roam y -96 
+\i (01:28:18) roam y -96
+\i (01:28:18) roam y -96 
+\i (01:28:18) roam y -96
+\i (01:28:19) roam y -96 
+\i (01:28:19) roam y -96
+\i (01:28:19) roam y -96 
+\i (01:28:19) roam y -96
+\i (01:28:19) roam y -96 
+\i (01:28:19) roam y -96
+\i (01:28:19) roam y -96 
+\i (01:28:19) roam y -96
+\i (01:28:20) exit 
+\e (01:28:20) Do you want to save the changes you made to CON6_1X6_DRBF_HST_HIR.dra?
+\i (01:28:21) fillin no 
+\t (01:28:21)     Journal end - Fri Dec 10 15:21:46 2021

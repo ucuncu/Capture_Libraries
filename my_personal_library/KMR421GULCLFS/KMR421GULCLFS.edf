@@ -1,0 +1,362 @@
+
+(EDIF
+  (rename KMR421GULCLFS "KMR421GULCLFS")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2018 03 22 17 25 01)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename KMR421GULCLFS "KMR421GULCLFS")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename KMR421GULCLFS "KMR421GULCLFS")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "S")
+          (property (rename VALUE "Value") (string "KMR421GULCLFS"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &3 "3")
+            (designator "3")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 2)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &4 "4")
+            (designator "4")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 3)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename G "G")
+            (designator "5")
+            (property
+              (rename TYPE "Type")
+              (string "POWER")
+            )
+            (property PORTTYPE
+              (string "supply")
+              (owner "Schematic_TSC")
+            )
+            (property SUPPLYTYPE
+              (string "power")
+              (owner "Schematic_TSC")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 4)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -30000 -16000) (pt 30000 16000)))
+            (portImplementation
+              (name &1)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt -26062 10000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -30000 10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -30000 10000)
+                    (pt -20000 10000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &2)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt -26062 -10000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -30000 -10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -30000 -10000)
+                    (pt -20000 -10000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &3)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt 26062 -10000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 30000 -10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 30000 -10000)
+                    (pt 20000 -9999)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &4)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt 26062 10000))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 30000 10000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 30000 10000)
+                    (pt 20000 10000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name G)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt 26062 0))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 30000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 30000 0)
+                    (pt 20000 0)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -30000 10000) (pt 0 10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 10000) (pt 20000 10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 -10000) (pt 0 -10000)))
+            )
+            (figure PARTBODY
+              (circle (pt -700 6000) (pt 700 6000))
+            )
+            (figure PARTBODY
+              (circle (pt -700 -6000) (pt 700 -6000))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -10000) (pt 20000 -10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -6000) (pt 0 -10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 6000) (pt 0 10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 6000) (pt 5000 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 9000 -2000) (pt 12000 -2000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 12000 -2000) (pt 15000 -2000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 10000 -4000) (pt 14000 -4000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 0) (pt 12000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 12000 0) (pt 12000 -2000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 13000 -6000) (pt 11000 -6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 16000) (pt 20000 -16000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 20000 -16000) (pt -20000 -16000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 -16000) (pt -20000 16000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -20000 16000) (pt 20000 16000)))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -19065 18061))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -19066 -26090))
+              )
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "SW_KMR421GULCLFS"))
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "C&K Components"))
+            )
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "
+Switch Tactile N.O. SPST Round Button Gull Wing 0.05A 32VDC 1VA 200000Cycles 2N SMD Automotive T/R
+"))
+            )
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "KMR421GULCLFS"))
+            )
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay "None"))
+            )
+            (property
+              (rename Digi-Key_Purchase_URL "Digi-Key_Purchase_URL")
+              (string
+              (stringDisplay "https://www.digikey.com/product-detail/en/c-k/KMR421GULCLFS/KMR421GULCLFS-ND/3861094?WT.z_cid=ref_snapeda&utm_source=snapeda&utm_medium=aggregator&utm_campaign=buynow"))
+            )
+            (property
+              (rename Digi-Key_Part_Number "Digi-Key_Part_Number")
+              (string
+              (stringDisplay "KMR421GULCLFS-ND"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

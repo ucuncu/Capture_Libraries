@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=SI2329DS-T1-GE3
+PartCategory=MOSFET (P-Channel)
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=1.1
+Released=2018-02-07 17:29:14
+Downloaded=2021-12-15 15:46:49
+3D=Y

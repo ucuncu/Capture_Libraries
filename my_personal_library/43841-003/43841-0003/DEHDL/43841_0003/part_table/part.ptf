@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '43841_0003'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "43841-0003" (!) = "", "438410003", "Other", "538-43841-0003", "https://www.mouser.co.uk/ProductDetail/Molex/43841-0003?qs=H%2FGT2mb2V7ZTabM28CPAtQ%3D%3D", "", "", "Modular Connectors / Ethernet Connectors MODJACK DUAL PORT SMT 50 SAU 8/8", "https://www.molex.com/pdm_docs/sd/438410003_sd.pdf", "11.8 mm"
+END_PART
+
+END.

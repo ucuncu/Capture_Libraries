@@ -1,0 +1,67 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+MT29F1G08ABAEAWP-IT_E_TR SOP50P2000X120-48N I ANA 9 1 0 0 0
+TIMESTAMP 2021.12.10.16.30.58
+"Manufacturer_Name" Micron
+"Manufacturer_Part_Number" MT29F1G08ABAEAWP-IT:E TR
+"Mouser Part Number" 340-186309-REEL
+"Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/Micron/MT29F1G08ABAEAWP-ITE-TR?qs=taEdVNyAfdEKzDS6fUq3Ig%3D%3D
+"Arrow Part Number" 
+"Arrow Price/Stock" 
+"Description" IC FLASH 1GBIT 20NS 48TSOP
+"Datasheet Link" http://e2e.ti.com/cfs-file/__key/communityserver-discussions-components-files/639/3005.MT29F1G08ABBEAH4E.pdf
+"Geometry.Height" 1.2mm
+GATE 1 48 0
+MT29F1G08ABAEAWP-IT_E_TR
+1 0 U NC_1
+2 0 U NC_2
+3 0 U NC_3
+4 0 U NC_4
+5 0 U NC_5
+6 0 U NC_6
+7 0 U R/B#
+8 0 U RE#
+9 0 U CE#
+10 0 U NC_7
+11 0 U NC_8
+12 0 U VCC_1
+13 0 U VSS_1
+14 0 U NC_9
+15 0 U NC_10
+16 0 U CLE
+17 0 U ALE
+18 0 U WE#
+19 0 U WP#
+20 0 U NC_11
+21 0 U NC_12
+22 0 U NC_13
+23 0 U NC_14
+24 0 U NC_15
+48 0 U VSS_4
+47 0 U DNU_2
+46 0 U NC_23
+45 0 U NC_22
+44 0 U I/O7
+43 0 U I/O6
+42 0 U I/O5
+41 0 U I/O4
+40 0 U NC_21
+39 0 U VCC_4
+38 0 U DNU_1
+37 0 U VCC_3
+36 0 U VSS_3
+35 0 U NC_20
+34 0 U VCC_2
+33 0 U NC_19
+32 0 U I/O3
+31 0 U I/O2
+30 0 U I/O1
+29 0 U I/O0
+28 0 U NC_18
+27 0 U NC_17
+26 0 U NC_16
+25 0 U VSS_2
+
+*END*
+*REMARK* SamacSys ECAD Model
+1072816/127516/2.49/48/4/Integrated Circuit

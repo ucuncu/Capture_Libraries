@@ -1,0 +1,18 @@
+.XC9103D093MR-G :1 ;Ceramic Capacitor Compatible, Step-up DC/DC Controller
+SOT95P280X130-5N
+*STM IC
+*NGS
+*PLB 1="FB" 2="VDD" 3="CE" 4="GND" 5="EXT"
+*MXP 5
+*DFN XC9103D093MR-G
+~!Manufacturer_Name (Torex)
+~!Manufacturer_Part_Number (XC9103D093MR-G)
+~!Mouser Part Number (N/A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Torex-Semiconductor/XC9103D093MR-G?qs=AsjdqWjXhJ9f0lD7ubDLsA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.torex.com.cn/file/xc9105/XC9103-XC9104-XC9105.pdf)
+~!Height (1.3mm)
+~!3D_Model (XC9103D093MR-G)
+XC9103D093MR-G
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

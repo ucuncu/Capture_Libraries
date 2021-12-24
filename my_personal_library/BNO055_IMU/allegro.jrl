@@ -1,0 +1,17 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Oct 02 18:52:30 2020
+\t (00:00:00)         Host=HAMIT-PC User=Hamit Pid=17624 CPUs=8
+\t (00:00:00) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\BNO055_IMU\LGA28R50P4X10_380X520X100.dra
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:03) fillin yes 
+\d (00:00:03) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/BNO055_IMU/LGA28R50P4X10_380X520X100.dra
+\i (00:00:03) trapsize 2169
+\i (00:00:03) trapsize 2239
+\i (00:00:03) trapsize 2239
+\i (00:00:03) trapsize 2248
+\i (00:00:03) trapsize 6980
+\i (00:00:03) generaledit 
+\i (00:00:05) exit 
+\t (00:00:06)     Journal end - Fri Oct 02 18:52:35 2020

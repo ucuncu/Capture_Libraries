@@ -1,0 +1,184 @@
+
+(EDIF
+  (rename &0ZCK0100FF2E "0ZCK0100FF2E")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2019 06 30 00 08 38)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename &0ZCK0100FF2E "0ZCK0100FF2E")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename &0ZCK0100FF2E "0ZCK0100FF2E")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "F")
+          (property (rename VALUE "Value") (string "0ZCK0100FF2E"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -20000 -3000) (pt 20000 3000)))
+            (portImplementation
+              (name &2)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 20000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 20000 0)
+                    (pt 10000 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &1)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -20000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -20000 0)
+                    (pt -10000 0)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -15000 -3000) (pt 15000 -3000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 15000 3000) (pt -15000 3000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 15000 -3000) (pt 15000 3000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -15000 3000) (pt -15000 -3000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -10000 0) (pt 10000 0)))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -15070 5527))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -15055 -9535))
+              )
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "FUSC2113X180N"))
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "Bel Fuse"))
+            )
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "
+Bel, Internal Part #: 0zck0100ff2e
+"))
+            )
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "0ZCK0100FF2E"))
+            )
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay "0805 Bel Fuse"))
+            )
+            (property
+              (rename Price "Price")
+              (string
+              (stringDisplay "None"))
+            )
+            (property
+              (rename Availability "Availability")
+              (string
+              (stringDisplay "Unavailable"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

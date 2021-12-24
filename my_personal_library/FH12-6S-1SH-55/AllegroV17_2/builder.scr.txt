@@ -1,0 +1,4 @@
+skill load "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/FH12-6S-1SH-55/AllegroV17_2/builder.ile" 
+skill changeWorkingDir "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/FH12-6S-1SH-55/AllegroV17_2" 
+skill LB_createFootprint "C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/FH12-6S-1SH-55/AllegroV17_2/CON6_1X6_DRBF_HST_HIR.xml" 
+exit 

@@ -1,0 +1,22 @@
+\t (00:00:04) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Tue Apr 02 01:48:02 2019
+\t (00:00:04)         Host=HAMIT-PC User=Hamit Pid=12092 CPUs=8
+\t (00:00:04) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\CAM-M8Q\ps_r150_100_d1000.dra
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:08) fillin yes 
+\d (00:00:08) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/CAM-M8Q/ps_r150_100_d1000.dra
+\i (00:00:08) trapsize 621
+\i (00:00:08) trapsize 635
+\i (00:00:08) trapsize 718
+\i (00:00:08) trapsize 720
+\i (00:00:08) generaledit 
+\i (00:00:10) drag_start grid -1.7507 1.3184
+\i (00:00:10) drag_stop 2.3991 -1.8516
+\i (00:00:11) roam y -96 
+\i (00:00:11) roam y -96 
+\i (00:00:13) exit 
+\e (00:00:13) Do you want to save the changes you made to ps_r150_100_d1000.dra?
+\i (00:00:14) fillin no 
+\t (00:00:14)     Journal end - Tue Apr 02 01:48:13 2019

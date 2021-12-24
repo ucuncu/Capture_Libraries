@@ -1,0 +1,17 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Tue Feb 25 19:48:18 2020
+\t (00:00:00)         Host=HAMIT-PC User=Hamit Pid=18944 CPUs=8
+\t (00:00:00) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\USB3150-30-130-A\GCT_USB3150-30-130-A.dra
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\i (00:00:03) fillin yes 
+\d (00:00:03) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/USB3150-30-130-A/GCT_USB3150-30-130-A.dra
+\i (00:00:04) trapsize 2269
+\i (00:00:04) trapsize 2317
+\i (00:00:04) trapsize 2317
+\i (00:00:04) trapsize 2323
+\i (00:00:05) trapsize 9406
+\i (00:00:05) generaledit 
+\i (00:00:07) exit 
+\t (00:00:08)     Journal end - Tue Feb 25 19:48:26 2020

@@ -1,0 +1,16 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Thu Apr 11 13:25:52 2019
+\t (00:00:01)         Host=HAMIT-PC User=Hamit Pid=5260 CPUs=8
+\t (00:00:01) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\MOLEX-SIM-503182-1852\MOLEX_503182-1852.dra
+\t (00:00:01) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:05) fillin yes 
+\d (00:00:05) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/MOLEX-SIM-503182-1852/MOLEX_503182-1852.dra
+\i (00:00:06) trapsize 6484
+\i (00:00:06) trapsize 6695
+\i (00:00:06) trapsize 6695
+\i (00:00:07) trapsize 6720
+\i (00:00:08) generaledit 
+\i (00:00:12) exit 
+\t (00:00:13)     Journal end - Thu Apr 11 13:26:03 2019

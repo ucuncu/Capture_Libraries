@@ -1,0 +1,228 @@
+
+(EDIF
+  (rename CCG_45_1206 "CCG-1206")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2021 03 28 08 38 20)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename CCG_45_1206 "CCG-1206")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename CCG_45_1206 "CCG-1206")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "LS")
+          (property (rename VALUE "Value") (string "CCG-1206"))
+          (port
+            (rename M "M")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (designator "M")
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename P "P")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (designator "P")
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -2500 -20000) (pt 7500 20000)))
+            (portImplementation
+              (name P)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 0 20000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 0 20000)
+                    (pt 0 10000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name M)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 0 -20000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 0 -20000)
+                    (pt 0 -10000)
+                  )
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -20062 30094))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -20047 -35078))
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -2500 5000) (pt 0 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 5000) (pt 2500 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2500 5000) (pt 2500 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2500 -5000) (pt 0 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -5000) (pt -2500 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -2500 -5000) (pt -2500 5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 2500 5000) (pt 7500 12500)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 7500 12500) (pt 7500 -12500)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 7500 -12500) (pt 2500 -5000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 5000) (pt 0 10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -5000) (pt 0 -10000)))
+            )
+            (annotate
+              (stringDisplay "+"
+                (display PARTBODY
+                  (justify LOWERLEFT)
+                  (orientation R0)
+                  (origin (pt -7543 5027))
+                )
+              )
+            )
+            (annotate
+              (stringDisplay "-"
+                (display PARTBODY
+                  (justify LOWERLEFT)
+                  (orientation R0)
+                  (origin (pt -7531 -12007))
+                )
+              )
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "CUI_CCG-1206"))
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "CUI Devices"))
+            )
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "12 mm, 5 V, 85 dB, Through Hole, Sealed, Magnetic Audio Transducer Buzzer"))
+            )
+            (property
+              (rename Purchase_URL "Purchase_URL")
+              (string
+              (stringDisplay "https://pricing.snapeda.com/search/part/CCG-1206/?ref=eda"))
+            )
+            (property
+              (rename Price "Price")
+              (string
+              (stringDisplay "None"))
+            )
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "CCG-1206"))
+            )
+            (property
+              (rename CUI_purchase_URL "CUI_purchase_URL")
+              (string
+              (stringDisplay "https://www.cuidevices.com/product/audio/buzzers/audio-transducers/ccg-1206?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"))
+            )
+            (property
+              (rename Availability "Availability")
+              (string
+              (stringDisplay "Good"))
+            )
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay " CUI Inc."))
+            )
+          )
+        )
+      )
+    )
+  )
+)
