@@ -1,0 +1,9 @@
+Manufacturer=Useconn Electronics
+PartNumber=FH-2x20SG
+PartCategory=Connector
+PackageCategory=Other
+PinCount=40
+Version=1.1
+Released=2019-04-26 11:59:32
+Downloaded=2022-03-28 14:37:27
+3D=Y

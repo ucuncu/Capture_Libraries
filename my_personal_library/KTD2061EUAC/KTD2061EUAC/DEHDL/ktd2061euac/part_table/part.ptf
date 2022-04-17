@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KTD2061EUAC'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kinetic Technologies", "KTD2061EUAC" (!) = "", "QFN40P300X300X60-21N-D", "Quad Flat No-Lead", "", "", "", "", "36-Channel RGB LED Drivers with I2C Control", "https://g.componentsearchengine.com/Datasheets/0/14955773.pdf", "0.6 mm"
+END_PART
+
+END.

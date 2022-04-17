@@ -1,0 +1,42 @@
+
+Copyright (c) 2006-2016, Elgris Technologies, Inc.
+
+EDIF 2 0 0 to OrCAD Capture Schematic Conversion Program SPB 17.20_1.102 built Feb  3 2016
+
+Started on Mon Mar 28 16:39:37 2022
+
+Reading config file C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\LIB_FH-2x20SG\FH-2x20SG\OrCAD_Allegro16\EDI2CAP.CFG
+
+Processing EDIF 2 0 0  file C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\LIB_FH-2x20SG\FH-2x20SG\OrCAD_Allegro16\FH-2x20SG.edf
+
+This EDIF file has unrecognized origin.
+EDIF 200: Syntax Error: source line 495: Unexpected Keyword:figureGroupOverride -- syntax check aborting!
+EDIF 200: Note: source line 496: Syntax check resuming
+
+EDIF 200 parsing finished
+
+Design has no schematics => OrCAD Schematic will not be created
+Library C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\MY_PERSONAL_LIBRARY\LIB_FH-2X20SG\FH-2X20SG\ORCAD_ALLEGRO16\FH_2X20SG.OLB is created
+              Design Unit is equal to 0.01000000 inches
+              Calculated pinSpacing is equal to : 1.00000012 inches
+              Calculated grid resolution is equal to: 100 Design Units
+Warning: Project is scaled in 0.1 times
+Design file has no schematics
+Converting Unreferenced Symbols from Design libraries
+Writing C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\MY_PERSONAL_LIBRARY\LIB_FH-2X20SG\FH-2X20SG\ORCAD_ALLEGRO16\FH-2X20SG.INI file
+Library C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\MY_PERSONAL_LIBRARY\LIB_FH-2X20SG\FH-2X20SG\ORCAD_ALLEGRO16\FH_2X20SG.OLB is being saved
+   ADVICE: If you DON'T LIKE the result:
+    Do another orcadwrite run using one of the following sets of OrCAD writer options:
+        'Min pin to pin spacing'=0.50000 inch(s), 'Grid'=50 design unit(s), 
+             results in 0 hotspots out of grid
+        'Min pin to pin spacing'=0.25000 inch(s), 'Grid'=25 design unit(s), 
+             results in 0 hotspots out of grid
+        'Min pin to pin spacing'=0.20000 inch(s), 'Grid'=20 design unit(s), 
+             results in 0 hotspots out of grid
+        'Min pin to pin spacing'=0.10000 inch(s), 'Grid'=10 design unit(s), 
+             results in 0 hotspots out of grid
+
+Finished on Mon Mar 28 16:39:37 2022
+
+
+1 error detected, 1 warning detected

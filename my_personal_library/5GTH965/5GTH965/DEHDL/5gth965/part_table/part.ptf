@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '5GTH965'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Apem", "5GTH965" (!) = "", "5GTH965", "Other", "642-5GTH965", "https://www.mouser.co.uk/ProductDetail/Apem/5GTH965?qs=XkGcM6gst%2F9QgOZ6koctQA%3D%3D", "", "", "Tactile Switches 50mA 24VDC 6.5N ThruHole IP67", "https://www.digikey.in/product-detail/en/mec-switches/5GTH965/679-2613-ND/2411560", "6.6 mm"
+END_PART
+
+END.

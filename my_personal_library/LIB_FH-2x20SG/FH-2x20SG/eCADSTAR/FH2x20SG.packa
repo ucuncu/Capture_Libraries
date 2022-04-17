@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "FH-2x20SG"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-04-26-11:59:32)
+    (mountForm default
+        (footprintRef "FH2x20SG")
+        (spec "System")
+    )
+)

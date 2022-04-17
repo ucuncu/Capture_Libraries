@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "FH2x20SG"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "FH2x20SG")
+        (spec "default")
+    )
+)

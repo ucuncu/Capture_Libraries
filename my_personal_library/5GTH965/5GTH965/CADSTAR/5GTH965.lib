@@ -1,0 +1,18 @@
+.5GTH965 :1 ;Tactile Switches 50mA 24VDC 6.5N ThruHole IP67
+"5GTH965"
+*STM S
+*NGS
+*PLB 1="NO_1" 2="NO_2" 3="COM_1" 4="COM_2"
+*MXP 4
+*DFN 5GTH965
+~!Manufacturer_Name (Apem)
+~!Manufacturer_Part_Number (5GTH965)
+~!Mouser Part Number (642-5GTH965)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Apem/5GTH965?qs=XkGcM6gst%2F9QgOZ6koctQA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.digikey.in/product-detail/en/mec-switches/5GTH965/679-2613-ND/2411560)
+~!Height (6.6mm)
+~!3D_Model (5GTH965)
+"5GTH965"
+1.1!U 2.1!U 3.1!U 4.1!U 

@@ -1,0 +1,75 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Mar 28 16:42:59 2022
+\t (00:00:00)         Host=HAMIT-PC User=Hamit Pid=15264 CPUs=8
+\t (00:00:00) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\LIB_FH-2x20SG\FH-2x20SG\Allegro\FH2x20SG.dra
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/LIB_FH-2x20SG/FH-2x20SG/Allegro/FH2x20SG.dra
+\i (00:00:03) trapsize 27364
+\i (00:00:03) trapsize 28596
+\i (00:00:03) trapsize 28596
+\i (00:00:04) trapsize 29535
+\i (00:00:04) generaledit 
+\i (00:00:05) zoom in 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 316.4419 115.6046
+\i (00:00:05) trapsize 14767
+\i (00:00:05) zoom in 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 225.1791 115.6046
+\i (00:00:05) trapsize 7384
+\i (00:00:06) roam x -96 
+\i (00:00:06) roam x -96
+\i (00:00:06) roam x -96 
+\i (00:00:06) roam x -96
+\i (00:00:06) roam x -96 
+\i (00:00:06) roam x -96
+\i (00:00:06) roam x -96 
+\i (00:00:06) roam x -96
+\i (00:00:06) roam x -96 
+\i (00:00:06) roam x -96
+\i (00:00:06) roam x -96 
+\i (00:00:06) roam x -96
+\i (00:00:06) roam x -96 
+\i (00:00:06) roam x -96
+\i (00:00:06) roam x -96 
+\i (00:00:06) roam x -96
+\i (00:00:06) roam x -96 
+\i (00:00:06) roam x -96
+\i (00:00:06) roam x 96 
+\i (00:00:06) roam x 96
+\i (00:00:06) roam x 96 
+\i (00:00:06) roam x 96
+\i (00:00:06) roam x 96 
+\i (00:00:06) roam x 96
+\i (00:00:06) roam x 96 
+\i (00:00:06) roam x 96
+\i (00:00:06) roam x 96 
+\i (00:00:06) roam x 96
+\i (00:00:07) roam x 96 
+\i (00:00:07) roam x 96
+\i (00:00:07) roam x 96 
+\i (00:00:07) roam x 96
+\i (00:00:07) roam x 96 
+\i (00:00:07) roam x 96
+\i (00:00:07) roam x 96 
+\i (00:00:07) roam x 96
+\i (00:00:07) roam x 96 
+\i (00:00:07) roam x 96
+\i (00:00:07) roam x 96 
+\i (00:00:07) roam x 96
+\i (00:00:07) roam x 96 
+\i (00:00:07) roam x 96
+\i (00:00:07) roam x 96 
+\i (00:00:07) roam x 96
+\i (00:00:07) roam x 96 
+\i (00:00:07) roam x 96
+\i (00:00:07) roam x 96 
+\i (00:00:07) roam x 96
+\i (00:00:08) zoom fit 
+\i (00:00:08) trapsize 1895
+\i (00:00:12) exit 
+\e (00:00:12) Do you want to save the changes you made to FH2x20SG.dra?
+\i (00:00:14) fillin no 
+\t (00:00:14)     Journal end - Mon Mar 28 16:43:13 2022

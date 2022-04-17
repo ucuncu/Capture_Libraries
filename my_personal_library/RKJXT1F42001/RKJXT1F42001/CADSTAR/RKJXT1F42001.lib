@@ -1,0 +1,18 @@
+.RKJXT1F42001 :1 ;Multi-Directional Switches 4 drectnl swtch cntr push w/ an encoder
+RKJXT1F42001
+*STM S
+*NGS
+*PLB 1="A" 2="PUSH" 3="GND TERMINAL" 4="B" 5="ENCODER B" 6="C" 7="COM" 8="ENCODER COM" 9="D_1" 10="ENCODER A" 11="D_2"
+*MXP 11
+*DFN RKJXT1F42001
+~!Manufacturer_Name (ALPS Electric)
+~!Manufacturer_Part_Number (RKJXT1F42001)
+~!Mouser Part Number (688-RKJXT1F42001)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Alps-Alpine/RKJXT1F42001?qs=6EGMNY9ZYDTsBzSTrhiL0w%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.alps.com/prod/info/E/HTML/MultiControl/Switch/RKJXT/RKJXT1F42001.html)
+~!Height (17mm)
+~!3D_Model (RKJXT1F42001)
+RKJXT1F42001
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Apem
+PartNumber=5GTH965
+PartCategory=Switch
+PackageCategory=Other
+PinCount=4
+Version=1.8
+Released=2021-06-16 10:57:10
+Downloaded=2022-03-08 11:56:08
+3D=Y

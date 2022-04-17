@@ -1,0 +1,9 @@
+Manufacturer=ALPS Electric
+PartNumber=RKJXT1F42001
+PartCategory=Switch
+PackageCategory=Other
+PinCount=11
+Version=1.2
+Released=2018-01-05 17:37:48
+Downloaded=2022-03-08 10:53:49
+3D=Y

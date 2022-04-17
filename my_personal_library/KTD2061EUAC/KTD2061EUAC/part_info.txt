@@ -1,0 +1,9 @@
+Manufacturer=Kinetic Technologies
+PartNumber=KTD2061EUAC
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=21
+Version=1.1
+Released=2021-11-24 17:37:30
+Downloaded=2022-03-08 11:24:20
+3D=Y

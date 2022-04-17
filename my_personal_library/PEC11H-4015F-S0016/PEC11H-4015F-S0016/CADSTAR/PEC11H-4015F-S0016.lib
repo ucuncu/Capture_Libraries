@@ -1,0 +1,19 @@
+.PEC11H-4015F-S0016 :1 ;Encoders ROTARY ENCODER W/BALL SPRING
+PEC11H4120FS0020
+*STM U
+*NGS
+*PNM 1=A1 2=B1 3=C1 4=S1 5=W1 6=MH1 7=MH2
+*PLB 1="A CHANNEL" 2="B CHANNEL" 3="C COMMON" 4="S" 5="W" 6="MH1" 7="MH2"
+*MXP 7
+*DFN PEC11H-4015F-S0016
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (PEC11H-4015F-S0016)
+~!Mouser Part Number (652-PEC11H4015FS0016)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/PEC11H-4015F-S0016?qs=7MVldsJ5UazZ6nkvCEo76Q%3D%3D)
+~!Arrow Part Number (PEC11H-4015F-S0016)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/pec11h-4015f-s0016/bourns?region=nac)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/a6043e90758edfc13212f4a5e9bb13d0.pdf)
+~!Height (26.5mm)
+~!3D_Model (PEC11H-4015F-S0016)
+PEC11H-4015F-S0016
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PEC11H_4015F_S0016'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "PEC11H-4015F-S0016" (!) = "", "PEC11H4120FS0020", "Other", "652-PEC11H4015FS0016", "https://www.mouser.co.uk/ProductDetail/Bourns/PEC11H-4015F-S0016?qs=7MVldsJ5UazZ6nkvCEo76Q%3D%3D", "PEC11H-4015F-S0016", "https://www.arrow.com/en/products/pec11h-4015f-s0016/bourns?region=nac", "Encoders ROTARY ENCODER W/BALL SPRING", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/a6043e90758edfc13212f4a5e9bb13d0.pdf", "26.5 mm"
+END_PART
+
+END.

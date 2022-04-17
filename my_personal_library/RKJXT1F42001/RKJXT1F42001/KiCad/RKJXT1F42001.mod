@@ -1,0 +1,122 @@
+PCBNEW-LibModule-V1  2022-03-08 10:53:49
+# encoding utf-8
+Units mm
+$INDEX
+RKJXT1F42001
+$EndINDEX
+$MODULE RKJXT1F42001
+Po 0 0 0 15 622735bd 00000000 ~~
+Li RKJXT1F42001
+Cd RKJXT1F42001
+Kw Switch
+Sc 0
+At STD
+AR 
+Op 0 0 0
+T0 0.000 -0 1.27 1.27 0 0.254 N V 21 N "S**"
+T1 0.000 -0 1.27 1.27 0 0.254 N I 21 N "RKJXT1F42001"
+DS -9.55 -9.55 9.55 -9.55 0.1 24
+DS 9.55 -9.55 9.55 9.55 0.1 24
+DS 9.55 9.55 -9.55 9.55 0.1 24
+DS -9.55 9.55 -9.55 -9.55 0.1 24
+DS 6 8.5 8.5 6 0.2 24
+DS -8.5 -6 -6 -8.5 0.2 24
+DS -6 8.5 -8.5 6 0.2 24
+DS 6 -8.5 8.5 -6 0.2 24
+DS -8.5 -6 -8.5 6 0.2 24
+DS -6 8.5 6 8.5 0.2 24
+DS 8.5 6 8.5 -6 0.2 24
+DS -6 -8.5 6 -8.5 0.2 24
+DS -8.5 -2.5 -8.5 -6 0.1 21
+DS -8.5 -6 -6 -8.5 0.1 21
+DS -6 -8.5 -2.5 -8.5 0.1 21
+DS 2.5 -8.5 6 -8.5 0.1 21
+DS 6 -8.5 8.5 -6 0.1 21
+DS 8.5 -6 8.5 -2.5 0.1 21
+DS -8.5 2.5 -8.5 6 0.1 21
+DS -8.5 6 -6 8.5 0.1 21
+DS -6 8.5 -2.5 8.5 0.1 21
+DS -0.5 8.5 6 8.5 0.1 21
+DS 6 8.5 8.5 6 0.1 21
+DS 8.5 6 8.5 2.5 0.1 21
+DS -8.5 -0.5 -8.5 0.5 0.1 21
+DS 8.5 -0.5 8.5 0.5 0.1 21
+$PAD
+Po -1.500 7.8
+Sh "1" C 1.5 1.5 0 0 900
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 1.000 6.98
+Sh "2" C 1.5 1.5 0 0 900
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 6.860 3.75
+Sh "3" C 1.5 1.5 0 0 900
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 7.800 1.5
+Sh "4" C 1.5 1.5 0 0 900
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 7.800 -1.5
+Sh "5" C 1.5 1.5 0 0 900
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 1.500 -7.8
+Sh "6" C 1.5 1.5 0 0 900
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po -1.000 -5.78
+Sh "7" C 1.5 1.5 0 0 900
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po -1.500 -7.8
+Sh "8" C 1.5 1.5 0 0 900
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po -7.800 -1.5
+Sh "9" C 1.5 1.5 0 0 900
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po -7.800 1.5
+Sh "10" C 1.5 1.5 0 0 900
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po -3.800 1.5
+Sh "11" C 1.5 1.5 0 0 900
+Dr 1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$EndMODULE RKJXT1F42001
+$EndLIBRARY

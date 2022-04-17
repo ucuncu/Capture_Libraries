@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=PEC11H-4015F-S0016
+PartCategory=Undefined or Miscellaneous
+PackageCategory=Other
+PinCount=7
+Version=2.13
+Released=2020-07-30 11:49:14
+Downloaded=2022-03-08 09:12:36
+3D=Y

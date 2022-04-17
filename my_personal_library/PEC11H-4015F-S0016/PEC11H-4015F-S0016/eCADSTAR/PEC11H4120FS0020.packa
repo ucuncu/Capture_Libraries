@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PEC11H-4015F-S0016"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-07-30-11:49:14)
+    (mountForm default
+        (footprintRef "PEC11H4120FS0020")
+        (spec "System")
+    )
+)

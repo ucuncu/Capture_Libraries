@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "KTD2061EUAC"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-11-24-17:37:30)
+    (mountForm default
+        (footprintRef "QFN40P300X300X60-21N-D")
+        (spec "System")
+    )
+)

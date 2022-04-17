@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FH-2x20SG
+D 2.54mm female header, 40 position
+K
+F http://akizukidenshi.com/download/ds/kakusya/FH-2X00SG.pdf
+$ENDCMP
+#
+#End Doc Library

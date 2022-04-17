@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "5GTH965"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-06-16-10:57:10)
+    (mountForm default
+        (footprintRef "5GTH965")
+        (spec "System")
+    )
+)

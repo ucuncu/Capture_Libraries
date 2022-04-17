@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KTD2061EUAC
+D 36-Channel RGB LED Drivers with I2C Control
+K
+F https://g.componentsearchengine.com/Datasheets/0/14955773.pdf
+$ENDCMP
+#
+#End Doc Library

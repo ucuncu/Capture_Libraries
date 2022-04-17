@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FH_2x20SG'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Useconn Electronics", "FH-2x20SG" (!) = "", "FH2x20SG", "Other", "", "", "", "", "2.54mm female header, 40 position", "http://akizukidenshi.com/download/ds/kakusya/FH-2X00SG.pdf", "8.65 mm"
+END_PART
+
+END.

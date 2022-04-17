@@ -1,0 +1,182 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu Mar 31 16:53:15 2022
+\t (00:00:00)         Host=HAMIT-PC User=Hamit Pid=7556 CPUs=8
+\t (00:00:00) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\USB4085-GF-A_REVA4\GCT_USB4085-GF-A_REVA4.dra
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:05) fillin yes 
+\d (00:00:05) Design opened: C:/Cadence/Cadence/Cadence_SPB_17.2-2016/tools/capture/library/my_personal_library/USB4085-GF-A_REVA4/GCT_USB4085-GF-A_REVA4.dra
+\i (00:00:06) trapsize 4246
+\i (00:00:06) trapsize 4343
+\i (00:00:06) trapsize 5775
+\i (00:00:06) trapsize 5964
+\i (00:00:06) generaledit 
+\i (00:00:08) zoom in 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 45.4985 9.5904
+\i (00:00:08) trapsize 2982
+\i (00:00:08) zoom in 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 18.9508 9.5904
+\i (00:00:08) trapsize 1491
+\i (00:00:09) roam y -96 
+\i (00:00:09) roam y -96
+\i (00:00:09) roam x -96 
+\i (00:00:09) roam x -96
+\i (00:00:09) roam x -96 
+\i (00:00:09) roam x -96
+\i (00:00:09) roam x -96 
+\i (00:00:09) roam x -96
+\i (00:00:10) roam x -96 
+\i (00:00:10) roam x -96
+\i (00:00:10) roam x -96 
+\i (00:00:10) roam x -96
+\i (00:00:10) roam x -96 
+\i (00:00:10) roam x -96
+\i (00:00:10) roam x -96 
+\i (00:00:10) roam x -96
+\i (00:00:10) roam y 96 
+\i (00:00:10) roam y 96
+\i (00:00:10) roam y 96 
+\i (00:00:10) roam y 96
+\i (00:00:10) roam y 96 
+\i (00:00:10) roam y 96
+\i (00:00:10) roam y 96 
+\i (00:00:10) roam y 96
+\i (00:00:11) zoom in 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in -1.1136 1.0016
+\i (00:00:11) trapsize 746
+\i (00:00:12) roam x 96 
+\i (00:00:12) roam x 96
+\i (00:00:12) roam x 96 
+\i (00:00:12) roam x 96
+\i (00:00:13) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:14) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:15) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
+\i (00:00:16) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
+\i (00:00:16) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:23) setwindow form.find
+\i (00:00:23) FORM find all_off  
+\i (00:00:27) FORM find pins YES 
+\i (00:00:30) FORM find pins NO 
+\i (00:00:31) FORM find vias YES 
+\i (00:00:33) FORM find pins YES 
+\i (00:00:33) FORM find vias NO 
+\i (00:00:34) FORM find pins NO 
+\i (00:00:35) FORM find voids YES 
+\i (00:00:36) FORM find shapes YES 
+\i (00:00:38) FORM find voids NO 
+\i (00:00:40) FORM find pins YES 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) pick grid 4.3438 -0.5193
+\t (00:00:41) last pick:  5.0800 0.0000
+\i (00:00:42) pick grid 4.3438 -0.5193
+\t (00:00:42) last pick:  5.0800 0.0000
+\i (00:00:42) pick grid dbl 4.3438 -0.5193
+\t (00:00:42) last pick:  5.0800 0.0000
+\i (00:00:43) roam x -96 
+\i (00:00:43) roam x -96
+\i (00:00:43) roam x -96 
+\i (00:00:43) roam x -96
+\i (00:00:43) roam x -96 
+\i (00:00:43) roam x -96
+\i (00:00:44) roam x 96 
+\i (00:00:44) roam x 96
+\i (00:00:44) roam x 96 
+\i (00:00:44) roam x 96
+\i (00:00:45) roam y -96 
+\i (00:00:45) roam y -96
+\i (00:00:46) roam y -96 
+\i (00:00:46) roam y -96
+\i (00:00:46) roam y -96 
+\i (00:00:46) roam y -96
+\i (00:00:46) roam y 96 
+\i (00:00:46) roam y 96
+\i (00:00:46) roam y 96 
+\i (00:00:46) roam y 96
+\i (00:00:46) roam y 96 
+\i (00:00:46) roam y 96
+\i (00:00:46) roam y 96 
+\i (00:00:46) roam y 96
+\i (00:00:46) roam y 96 
+\i (00:00:46) roam y 96
+\i (00:00:46) roam y 96 
+\i (00:00:46) roam y 96
+\i (00:00:46) roam y 96 
+\i (00:00:46) roam y 96
+\i (00:00:46) roam y 96 
+\i (00:00:46) roam y 96
+\i (00:00:47) roam y -96 
+\i (00:00:47) roam y -96
+\i (00:00:47) roam y -96 
+\i (00:00:47) roam y -96
+\i (00:00:47) roam y -96 
+\i (00:00:47) roam y -96
+\i (00:00:47) roam x 96 
+\i (00:00:47) roam x 96
+\i (00:00:47) roam x 96 
+\i (00:00:47) roam x 96
+\i (00:00:48) roam y -96 
+\i (00:00:48) roam y -96
+\i (00:00:48) roam y -96 
+\i (00:00:48) roam y -96
+\i (00:00:48) roam y -96 
+\i (00:00:48) roam y -96
+\i (00:00:49) zoom out 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 3.1659 2.4330
+\i (00:00:49) trapsize 1491
+\i (00:00:49) zoom out 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 3.1659 2.4331
+\i (00:00:49) trapsize 2982
+\i (00:00:50) roam y -96 
+\i (00:00:50) roam y -96
+\i (00:00:50) roam y -96 
+\i (00:00:50) roam y -96
+\i (00:00:50) roam y -96 
+\i (00:00:50) roam y -96
+\i (00:00:50) roam y -96 
+\i (00:00:50) roam y -96
+\i (00:00:50) pick grid 18.5989 17.7616
+\t (00:00:50) last pick:  17.7800 17.7800
+\i (00:00:50) roam y 96 
+\i (00:00:50) roam y 96
+\i (00:00:50) roam y 96 
+\i (00:00:50) roam y 96
+\i (00:00:50) roam y 96 
+\i (00:00:50) roam y 96
+\i (00:00:50) roam y 96 
+\i (00:00:51) roam y 96
+\i (00:09:14) roam y -96 
+\i (00:09:14) roam y -96
+\i (00:09:15) zoom in 
+\i (00:09:15) setwindow pcb
+\i (00:09:15) zoom in 3.4493 8.1589
+\i (00:09:15) trapsize 1491
+\i (00:09:15) zoom in 
+\i (00:09:15) setwindow pcb
+\i (00:09:15) zoom in 3.4493 8.1589
+\i (00:09:15) trapsize 746
+\i (00:09:16) roam y 96 
+\i (00:09:16) roam y 96
+\i (00:09:16) roam y 96 
+\i (00:09:16) roam y 96
+\i (00:09:16) roam y 96 
+\i (00:09:16) roam y 96
+\i (00:09:19) roam y 96 
+\i (00:09:19) roam y 96
+\i (00:09:22) zoom in 
+\i (00:09:22) setwindow pcb
+\i (00:09:22) zoom in 3.4493 2.4330
+\i (00:09:22) trapsize 373
+\i (00:09:23) roam x -96 
+\i (00:09:23) roam x -96
+\i (00:09:23) roam x -96 
+\i (00:09:23) roam x -96
+\i (00:09:28) exit 
+\e (00:09:28) Do you want to save the changes you made to GCT_USB4085-GF-A_REVA4.dra?
+\i (00:09:29) fillin no 
+\t (00:09:30)     Journal end - Thu Mar 31 17:02:45 2022

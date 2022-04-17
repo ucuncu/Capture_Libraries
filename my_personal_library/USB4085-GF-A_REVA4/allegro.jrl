@@ -1,0 +1,37 @@
+\t (00:00:05) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Wed Apr 13 10:52:36 2022
+\t (00:00:05)         Host=HAMIT-PC User=Hamit Pid=11668 CPUs=8
+\t (00:00:05) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:06) Starting new design...
+\i (00:00:07) trapsize 669
+\i (00:00:07) trapsize 684
+\i (00:00:07) trapsize 1126
+\i (00:00:07) trapsize 1163
+\i (00:00:07) generaledit 
+\i (00:00:09) zoom in 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 16395.4 8488.4
+\i (00:00:09) trapsize 581
+\i (00:00:10) zoom in 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 12802.4 8488.4
+\i (00:00:10) trapsize 291
+\i (00:00:11) zoom out 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 12802.5 8488.4
+\i (00:00:11) trapsize 581
+\i (00:00:11) zoom out 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 12802.3 8488.4
+\i (00:00:11) trapsize 1163
+\i (00:00:13) open 
+\i (00:00:18) fillin "menu_cancel"
+\i (00:00:18) generaledit 
+\i (00:00:20) open 
+\i (00:00:34) fillin "D:\PROJELER\PCB_DONANIM\JOYCAR_ARDUINO_BASIC_V0\allegro\JOYCAR_ARDUINO_BASIC_V0_11.brd"
+\i (00:00:34) cd "D:\PROJELER\PCB_DONANIM\JOYCAR_ARDUINO_BASIC_V0\allegro"
+\t (00:00:34) Opening existing design...
+\i (00:00:34) trapsize 24740
+\t (00:00:34)     Journal end - Wed Apr 13 10:53:06 2022

@@ -1,0 +1,18 @@
+.KTD2061EUAC :1 ;36-Channel RGB LED Drivers with I2C Control
+QFN40P300X300X60-21N-D
+*STM IC
+*NGS
+*PLB 1="VIN_1" 2="VIN_2" 3="VCC" 4="SCL" 5="SDA" 6="LEDA1" 7="LEDA2" 8="GND_1" 9="LEDA3" 10="LEDA4" 11="LEDB1" 12="LEDB2" 13="GND_2" 14="LEDB3" 15="LEDB4" 16="LEDC1" 17="LEDC2" 18="GND_3" 19="LEDC3" 20="LEDC4" 21="EP"
+*MXP 21
+*DFN KTD2061EUAC
+~!Manufacturer_Name (Kinetic Technologies)
+~!Manufacturer_Part_Number (KTD2061EUAC)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://g.componentsearchengine.com/Datasheets/0/14955773.pdf)
+~!Height (0.6mm)
+~!3D_Model (KTD2061EUAC)
+KTD2061EUAC
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 
